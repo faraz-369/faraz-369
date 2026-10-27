@@ -1,7 +1,5 @@
  <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=faraz-369&label=PROFILE%20VIEWS&color=0A66C2&style=flat-square)
-
 [![Rankistan Rank](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FFaraz6180&style=flat-square)](https://rankistan.dev/#Faraz6180)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:123b66,100:087e8b&height=190&section=header&text=Faraz%20Mubeen%20Haider&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Applied%20AI%20Software%20Engineer&descSize=19&descAlignY=60" width="100%" alt="Faraz Mubeen Haider — Applied AI Software Engineer" />

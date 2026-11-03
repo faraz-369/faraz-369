@@ -8,9 +8,7 @@
 
 ### Software Engineer | Backend Systems & Intelligent Applications
 
-I'm a Software Engineering graduate interested in building reliable software systems and intelligent applications that solve practical problems.**.
-
-I'm strengthening my ability to take AI applications from prototype to tested, deployable software, with a long-term interest in aerospace, satellite, and autonomous-systems software.
+I'm a Software Engineering graduate interested in building reliable software systems and intelligent applications that solve practical problems..
 
 📍 Pakistan · Open to relevant remote and international opportunities.
 

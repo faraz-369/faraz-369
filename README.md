@@ -6,9 +6,9 @@
 
 # Faraz Mubeen Haider
 
-### Applied AI Software Engineer | Python · Backend Systems · LLM Applications
+### Software Engineer | Backend Systems & Intelligent Applications
 
-I build AI-powered applications using Python, APIs, retrieval-augmented generation (RAG), and agentic workflows. My technical focus is making AI applications more **grounded, testable, and reliable**.
+I'm a Software Engineering graduate interested in building reliable software systems and intelligent applications that solve practical problems.**.
 
 I'm strengthening my ability to take AI applications from prototype to tested, deployable software, with a long-term interest in aerospace, satellite, and autonomous-systems software.
 

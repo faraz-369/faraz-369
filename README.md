@@ -1,7 +1,5 @@
  <div align="center">
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat)](https://rankistan.dev/#faraz-369)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070d18,55:0e2034,100:2bb3a8&height=200&section=header&text=Faraz%20Mubeen%20Haider&fontColor=f1f6fa&fontSize=40&fontAlignY=40&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Intelligent%20Applications&descColor=8db4c6&descSize=16&descAlignY=62" width="100%" alt="Faraz Mubeen Haider — Software Engineering, Backend Systems, Intelligent Applications" />
 
 <p align="center">

@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070d18,55:0e2034,100:2bb3a8&height=200&section=header&text=Faraz%20Mubeen%20Haider&fontColor=f1f6fa&fontSize=40&fontAlignY=40&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Intelligent%20Applications&descColor=8db4c6&descSize=16&descAlignY=62" width="100%" alt="Faraz Mubeen Haider — Software Engineering, Backend Systems, Intelligent Applications" />
 
@@ -8,17 +8,17 @@
 
 # Faraz Mubeen Haider
 
-### Software Engineer | Backend Systems & Intelligent Applications
+### Software Engineer | Backend Systems, Data & Intelligent Applications
 
-I'm a Software Engineering graduate interested in building reliable software systems and intelligent applications that solve practical problems..
+Software Engineering graduate focused on building reliable backend systems and the intelligent applications that run on top of them: APIs, data-backed services, retrieval pipelines, and LLM-powered workflows.
 
 📍 Pakistan · Open to relevant remote and international opportunities.
 
-[![Email](https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:faraz.outreach8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fm61/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/faraz-369)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Live%20Demos-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Faraz618)
-[![LabLab](https://img.shields.io/badge/LabLab-Hackathon%20Work-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-0e2034?style=flat-square&logo=gmail&logoColor=5ED6E8)](mailto:faraz.outreach8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e2034?style=flat-square&logo=linkedin&logoColor=5ED6E8)](https://www.linkedin.com/in/fm61/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-0e2034?style=flat-square&logo=github&logoColor=5ED6E8)](https://github.com/faraz-369)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Live%20Demos-0e2034?style=flat-square&logo=huggingface&logoColor=5ED6E8)](https://huggingface.co/Faraz618)
+[![LabLab](https://img.shields.io/badge/LabLab-Hackathon%20Work-0e2034?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 
 </div>
 
@@ -37,34 +37,35 @@ I'm a Software Engineering graduate interested in building reliable software sys
 
 ## About Me
 
-My focus is the engineering side of applied AI: turning model capabilities into applications that solve practical problems.
+I'm a software engineer who enjoys the structure behind working products: clean APIs, sensible data models, dependable services, and systems that behave predictably.
 
-I enjoy working across the application stack, from API development and data retrieval to LLM orchestration, evaluation, and user-facing interfaces.
+Much of my recent work applies that foundation to intelligent applications, where model capabilities are only useful when they sit inside well-engineered software. I work across the application stack, from API development and data retrieval to LLM orchestration, evaluation, and user-facing interfaces.
 
 ### Areas I work on
 
-- **Applied AI:** Building LLM-powered applications for practical workflows.
 - **Backend engineering:** Developing Python services, REST APIs, and data-backed applications.
-- **RAG and information retrieval:** Connecting generated answers to relevant source material.
-- **AI evaluation and reliability:** Exploring groundedness checks, citation validation, critic/verifier patterns, and uncertainty handling.
-- **Agentic workflows:** Designing multi-step AI workflows with explicit responsibilities.
+- **Data and persistence:** Working with relational data, data modeling, and data processing.
+- **Retrieval and information systems:** Connecting generated answers to relevant source material with RAG pipelines.
+- **Intelligent applications:** Building LLM-powered applications for practical workflows.
+- **Agentic workflows:** Designing multi-step workflows with explicit responsibilities.
+- **Evaluation and reliability:** Exploring groundedness checks, citation validation, critic/verifier patterns, and uncertainty handling.
 - **Product-oriented engineering:** Connecting technical implementation to user needs, observable behavior, and measurable outcomes.
 
-My engineering goal is to strengthen the full lifecycle of AI applications:
+My engineering goal is to strengthen the full lifecycle of software systems:
 
 **Prototype → Test → Deploy → Evaluate → Improve**
 
 ### Long-term industry interest
 
-I'm exploring **aerospace, satellite, and autonomous-systems software**, particularly engineering workflows where information retrieval, evidence traceability, and reliable AI-assisted analysis may be useful.
+I'm exploring **aerospace, satellite, and autonomous-systems software**, particularly engineering workflows where information retrieval, evidence traceability, and reliable software-assisted analysis may be useful.
 
-This is an area of focused learning and project exploration—not a claim of aerospace industry experience.
+This is an area of focused learning and project exploration, not a claim of aerospace industry experience.
 
 ---
 
 ## Selected Projects
 
-These projects demonstrate different aspects of my applied AI work. Each description explains the intended functionality and implementation areas without assuming production readiness.
+These projects demonstrate different aspects of my engineering work. Each description explains the intended functionality and implementation areas without assuming production readiness.
 
 ### 1. ComplianceRAG — Grounded Question Answering
 
@@ -82,8 +83,8 @@ RAG applications can produce plausible answers that are not adequately supported
 
 **Stack:** Python · Gradio · FAISS · sentence-transformers · Hugging Face Inference API · PyPDF
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20it-2ea44f?style=flat-square)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/faraz-369/ComplianceRAG)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20it-2BB3A8?style=flat-square)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-0e2034?style=flat-square&logo=github&logoColor=5ED6E8)](https://github.com/faraz-369/ComplianceRAG)
 
 ### 2. AdvancedLeadsGeneration-AI — Multi-Agent Lead Qualification
 
@@ -95,15 +96,15 @@ The workflow uses agents with different responsibilities to assess a lead, surfa
 
 **What it demonstrates**
 
+- Backend API development.
 - Multi-agent orchestration and role separation.
 - Structured reasoning across competing perspectives.
-- Backend API development.
 - An AI-powered workflow connected to a web application.
 
 **Stack:** Next.js · FastAPI · IBM Watson AI · IBM Granite
 
-[![Hackathon Project](https://img.shields.io/badge/Hackathon-Project%20Page-6C47FF?style=flat-square)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/faraz-369/AdvancedLeadsGeneration-AI)
+[![Hackathon Project](https://img.shields.io/badge/Hackathon-Project%20Page-0e2034?style=flat-square)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-0e2034?style=flat-square&logo=github&logoColor=5ED6E8)](https://github.com/faraz-369/AdvancedLeadsGeneration-AI)
 
 ### 3. HireMind-AI — Career Workflow Assistant
 
@@ -116,19 +117,19 @@ The application brings related workflows into one interface, including job-descr
 - LLM integration in a user-facing application.
 - Multi-step workflows for career-related tasks.
 - Structured outputs and application state management.
-- Rapid development of an interactive AI application.
+- Rapid development of an interactive application.
 
 **Stack:** Python · Streamlit · Groq API · LLaMA 3.1 · Hugging Face Spaces
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20it-2ea44f?style=flat-square)](https://huggingface.co/spaces/Faraz618/HireMind-AI)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/faraz-369/HireMind-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20it-2BB3A8?style=flat-square)](https://huggingface.co/spaces/Faraz618/HireMind-AI)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-0e2034?style=flat-square&logo=github&logoColor=5ED6E8)](https://github.com/faraz-369/HireMind-AI)
 
 <details>
 <summary><b>More work: SafeLite</b></summary>
 
-### SafeLite — Research-Oriented AI System
+### SafeLite — Research-Oriented System
 
-A modular AI system exploring the separation of planning, safety reasoning, execution, simulation, and evaluation.
+A modular system exploring the separation of planning, safety reasoning, execution, simulation, and evaluation.
 
 Areas of interest include explicit safety checks, component-level testing, controlled simulation, and investigating system behavior under different conditions.
 
@@ -147,8 +148,8 @@ Areas of interest include explicit safety checks, component-level testing, contr
 | **Languages** | Python, SQL, TypeScript |
 | **Backend engineering** | FastAPI, REST APIs |
 | **Data and persistence** | PostgreSQL, SQLAlchemy, Pandas |
-| **LLM applications** | Groq, LLaMA, IBM Granite, IBM Watson AI, Hugging Face Inference API, OpenAI APIs |
-| **RAG and retrieval** | FAISS, sentence-transformers, embeddings, LangChain, PyPDF |
+| **Retrieval** | FAISS, sentence-transformers, embeddings, PyPDF |
+| **Intelligent applications** | Groq, LLaMA, IBM Granite, IBM Watson AI, Hugging Face Inference API, OpenAI APIs, LangChain |
 | **Agentic workflows** | Multi-agent workflows, critic/verifier patterns, CrewAI |
 | **Frontend and prototyping** | Next.js, Streamlit, Gradio |
 | **Deployment and demos** | Hugging Face Spaces, Streamlit Cloud |
@@ -161,15 +162,15 @@ Areas of interest include explicit safety checks, component-level testing, contr
 
 **Build for a real problem.** Start with the problem and intended user, not a framework or model.
 
-**Ground answers in evidence.** Retrieval quality, source relevance, and context quality matter alongside generation.
-
-**Evaluate instead of assuming.** A feature existing in code does not establish that it works reliably.
-
-**Handle uncertainty explicitly.** Questionable outputs should be identified rather than presented as unquestionable facts.
-
 **Make systems understandable.** Clear architecture, documentation, limitations, and reproducible steps help others assess and improve a project.
 
 **Engineer beyond the prototype.** Tests, failure handling, security, observability, and deployment matter when applications need to work consistently.
+
+**Evaluate instead of assuming.** A feature existing in code does not establish that it works reliably.
+
+**Ground answers in evidence.** Retrieval quality, source relevance, and context quality matter alongside generation.
+
+**Handle uncertainty explicitly.** Questionable outputs should be identified rather than presented as unquestionable facts.
 
 **Keep learning through implementation.** I value building, testing, and improving working systems over collecting tools for their own sake.
 
@@ -177,15 +178,15 @@ Areas of interest include explicit safety checks, component-level testing, contr
 
 ## Current Learning Direction
 
-My current priority is to strengthen the engineering practices that help turn AI prototypes into dependable software:
+My current priority is to strengthen the engineering practices that help turn prototypes into dependable software:
 
-- Automated testing and regression evaluation.
 - Backend design, data modeling, and API reliability.
+- Automated testing and regression evaluation.
 - Deployment, logging, and observability.
 - RAG evaluation, groundedness, and failure analysis.
 - Understanding aerospace engineering workflows and their information needs.
 
-My long-term goal is to combine **applied AI engineering, software reliability, and domain understanding** to build useful systems with measurable value.
+My long-term goal is to combine **backend engineering, software reliability, and domain understanding** to build useful systems with measurable value.
 
 ---
 
@@ -193,9 +194,9 @@ My long-term goal is to combine **applied AI engineering, software reliability, 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=faraz-369&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=faraz-369&show_icons=true&hide_border=true&bg_color=0A1424&title_color=5ED6E8&icon_color=2BB3A8&text_color=8DB4C6" alt="GitHub statistics" height="165" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraz-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages in public repositories" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraz-369&layout=compact&hide_border=true&langs_count=8&bg_color=0A1424&title_color=5ED6E8&text_color=8DB4C6" alt="Most-used languages in public repositories" height="165" />
 
 </div>
 
@@ -203,11 +204,11 @@ My long-term goal is to combine **applied AI engineering, software reliability, 
 
 ## Let's Connect
 
-I'm interested in opportunities involving **Applied AI, AI software engineering, LLM applications, Python backend systems, RAG, agentic workflows, and AI evaluation**.
+I'm interested in opportunities involving **software engineering, Python backend systems, data-backed applications, intelligent applications, and applied AI** (LLM applications, RAG, agentic workflows, and evaluation).
 
 I'm especially interested in teams that value sound engineering, practical problem-solving, evidence-based iteration, and learning from real users.
 
-If you're building AI-powered products or working on challenging software engineering problems, I'd be glad to connect.
+If you're building products or working on challenging software engineering problems, I'd be glad to connect.
 
 - **Email:** [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
 - **LinkedIn:** [linkedin.com/in/fm61](https://www.linkedin.com/in/fm61/)

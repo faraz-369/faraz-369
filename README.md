@@ -34,7 +34,7 @@ I also explore applied AI as a supporting engineering area, integrating retrieva
 - **BICON-NUML:** BillBachao, a final-year project, selected for the BICON accelerator cohort.
 - **AlgoVerse Research Program (EOE.ai × Omdena):** Accepted into the research program.
 - **IBM Granite Generative AI Hackathon:** Team PolyEns contributor; collaborative project submission: AdvancedLeadsGeneration-AI.
-- **LabLab:** Public profile currently lists 17 hackathon events and 12 submissions.
+- **LabLab:** Public profile currently lists 17 hackathon events and 15 submissions.
 
 ## Selected Engineering Projects
 

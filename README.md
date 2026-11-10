@@ -1,6 +1,62 @@
 <div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Faraz Mubeen Haider — Software Engineer</title>
+  <desc id="d">Software Engineer specialising in Backend and Distributed Systems, on a midnight navy background with a network-node motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061329"/>
+      <stop offset="0.6" stop-color="#0B2450"/>
+      <stop offset="1" stop-color="#087FE5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#20B9F5"/>
+      <stop offset="1" stop-color="#087FE5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F4F7FC" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#20B9F5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#20B9F5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
-<img src="./assets/github-profile-banner.svg" width="100%" alt="Faraz Mubeen Haider — Software Engineer specialising in Backend and Distributed Systems"/>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <circle cx="930" cy="150" r="190" fill="url(#glow)"/>
+
+  <!-- Service-topology motif -->
+  <g stroke="#20B9F5" stroke-opacity="0.55" stroke-width="1.5" fill="none">
+    <path d="M 800 90 L 900 150 L 800 210"/>
+    <path d="M 900 150 L 1010 80"/>
+    <path d="M 900 150 L 1010 150"/>
+    <path d="M 900 150 L 1010 220"/>
+    <path d="M 1010 80 L 1110 120"/>
+    <path d="M 1010 150 L 1110 120"/>
+    <path d="M 1010 150 L 1110 190"/>
+    <path d="M 1010 220 L 1110 190"/>
+    <path d="M 800 90 L 800 210" stroke-dasharray="4 6"/>
+  </g>
+  <g fill="#061329" stroke="#20B9F5" stroke-width="2">
+    <circle cx="800" cy="90" r="8"/>
+    <circle cx="800" cy="210" r="8"/>
+    <circle cx="1010" cy="80" r="8"/>
+    <circle cx="1010" cy="150" r="8"/>
+    <circle cx="1010" cy="220" r="8"/>
+    <circle cx="1110" cy="120" r="8"/>
+    <circle cx="1110" cy="190" r="8"/>
+  </g>
+  <circle cx="900" cy="150" r="14" fill="#20B9F5"/>
+  <circle cx="900" cy="150" r="5" fill="#061329"/>
+
+  <!-- Text -->
+  <rect x="70" y="78" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="150" fill="#F4F7FC" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Faraz Mubeen Haider</text>
+  <text x="72" y="196" fill="#20B9F5" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="0.5">Software Engineer</text>
+  <text x="72" y="232" fill="#F4F7FC" fill-opacity="0.8" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="1.5">BACKEND &amp; DISTRIBUTED SYSTEMS</text>
+</svg>
+
+<img width="1200" height="300" alt="github-profile-banner" src="https://github.com/user-attachments/assets/4138f3bd-8377-4ecb-8881-50a746b96b6c" />
 
 <br/>
 

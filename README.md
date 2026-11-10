@@ -1,10 +1,22 @@
 <div align="center">
+
 <img src="./assets/github-profile-banner.svg" width="100%" alt="Faraz Mubeen Haider — Software Engineer specialising in Backend and Distributed Systems"/>
+
+<br/>
+
+[Email](mailto:faraz.outreach8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/faraz369) · [Portfolio](https://faraz369.vercel.app/) · [Hugging Face](https://huggingface.co/Faraz618)
+
 </div>
 
-I'm a Software Engineer specialising in backend and distributed systems. I build Python/FastAPI services, REST APIs and data-intensive applications, with a focus on data integrity, testing and how software behaves when dependencies fail.
+<br/>
 
-My experience covers startup product work, a backend sprint at an early-stage SaaS venture, data-pipeline automation and teaching Python at Stanford's Code in Place. I'm an early-career engineer, currently deepening my skills in database design, asynchronous processing and reliability engineering. Based in Pakistan; open to software engineering roles internationally.
+## About
+
+I'm a Software Engineer who builds backend services in Python and FastAPI: REST APIs, relational data models and data-intensive applications. I care most about data integrity, testing, and how software behaves when its dependencies fail.
+
+I'm early in my career. My work so far includes startup product engineering, a six-week backend sprint on a SaaS MVP, data-pipeline automation, and teaching Python as a Stanford Code in Place Section Leader. I'm now deepening my skills in database design, asynchronous processing and reliability engineering.
+
+**Location:** Pakistan · **Open to:** software engineering roles, remote or international
 
 ---
 
@@ -97,9 +109,3 @@ Listed by use in the projects and roles above; depth varies by tool.
 ## Currently Strengthening
 
 Database transactions and schema design · authentication and authorisation · asynchronous processing · logging and observability · distributed-systems fundamentals
-
----
-
-## Contact
-
-[Email](mailto:faraz.outreach8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/faraz369) · [Portfolio](https://faraz369.vercel.app/) · [Hugging Face](https://huggingface.co/Faraz618)

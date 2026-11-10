@@ -1,6 +1,7 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:061329,50:0B2450,100:087FE5&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontColor=F4F7FC&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20DISTRIBUTED%20SYSTEMS&descColor=20B9F5&descSize=17&descAlignY=62" width="100%" alt="Faraz Mubeen Haider — Software Engineer specialising in Backend and Distributed Systems"/>
+<div align="center">
+
+![Faraz Mubeen Haider — Software Engineer | Backend & Distributed Systems](https://capsule-render.vercel.app/api?type=rect&color=0:061329,50:0B2450,100:087FE5&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontColor=F4F7FC&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20DISTRIBUTED%20SYSTEMS&descColor=20B9F5&descSize=17&descAlignY=62)
 
 <br/>
 

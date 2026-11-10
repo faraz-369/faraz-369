@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:061329,50:0B2450,100:087FE5&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontColor=F4F7FC&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20DISTRIBUTED%20SYSTEMS&descColor=20B9F5&descSize=17&descAlignY=62" width="100%" alt="Faraz Mubeen Haider — Software Engineer specialising in Backend and Distributed Systems"/>
 
@@ -55,7 +54,7 @@ Currently based in Pakistan and open to relevant software engineering opportunit
 |---|---|
 | Backend Engineering | Python, FastAPI, REST APIs, Pydantic |
 | Database Engineering | PostgreSQL, SQLite, SQLAlchemy, relational modelling |
-| Data Engineering | Pandas, ETL, data transformation, validation |
+| Data Processing | Pandas, ETL, data transformation, validation |
 | Application Architecture | Modular design, service integration, maintainability |
 | Software Quality | Pytest, HTTPX, Hypothesis, Ruff |
 | Infrastructure & Delivery | Docker, Docker Compose, GitHub Actions |

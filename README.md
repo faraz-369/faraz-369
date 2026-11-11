@@ -4,8 +4,6 @@
   <img src="./Neon%20Blue%20Software%20Engineer%20Profile%20Banner%20%281%29.png" alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering, APIs, Distributed Systems" width="100%" />
 </a>
 
-**Building backend applications, reliable APIs, and data-driven software systems.**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/faraz369)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?logo=vercel)](https://faraz369.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-faraz--369-181717?logo=github)](https://github.com/faraz-369)
@@ -23,6 +21,7 @@ I use GitHub to build, document, and share engineering projects, while participa
   <a href="https://github.com/faraz-369">
     <img src="https://img.shields.io/github/followers/faraz-369?style=for-the-badge&label=GitHub%20Followers" alt="GitHub followers" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/faraz-369?tab=repositories">
     <img src="https://img.shields.io/github/stars/faraz-369?style=for-the-badge&label=GitHub%20Stars" alt="GitHub stars" />
   </a>
@@ -32,6 +31,9 @@ I use GitHub to build, document, and share engineering projects, while participa
   <a href="https://rankistan.dev/#faraz-369">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=for-the-badge" alt="Rankistan developer ranking" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://user-badge.committers.top/pakistan/faraz-369">
     <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking" />
   </a>

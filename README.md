@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Faraz Mubeen Haider
-
-### Software Engineer | Backend Engineering & Distributed Systems
+<a href="https://faraz369.vercel.app/">
+  <img src="./Neon%20Blue%20Software%20Engineer%20Profile%20Banner%20%281%29.png" alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering, APIs, Distributed Systems" width="100%" />
+</a>
 
 **Building backend applications, reliable APIs, and data-driven software systems.**
 

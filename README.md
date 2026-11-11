@@ -5,232 +5,286 @@
 
 ### Software Engineer | Backend Engineering & Distributed Systems
 
-**Building reliable APIs, backend applications, and data-driven software systems.**
+**Building backend applications, reliable APIs, and data-driven software systems.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/faraz369)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/faraz-369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2)](https://faraz369.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/faraz369)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?logo=vercel)](https://faraz369.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-faraz--369-181717?logo=github)](https://github.com/faraz-369)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?logo=huggingface)](https://huggingface.co/Faraz618)
 
 </div>
 
 ---
 
+## Developer Activity & Community
+
+I use GitHub to build, document, and share engineering projects, while participating in international developer and hackathon communities.
+
+<p align="center">
+  <a href="https://github.com/faraz-369">
+    <img src="https://img.shields.io/github/followers/faraz-369?style=for-the-badge&label=GitHub%20Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/faraz-369?tab=repositories">
+    <img src="https://img.shields.io/github/stars/faraz-369?style=for-the-badge&label=GitHub%20Stars" alt="GitHub stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://rankistan.dev/#faraz-369">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=for-the-badge" alt="Rankistan developer ranking" />
+  </a>
+  <a href="https://user-badge.committers.top/pakistan/faraz-369">
+    <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lablab.ai/u/@Faraz_Mubeen">
+    <img src="https://img.shields.io/badge/LabLab.ai-View%20Hackathon%20Profile-6C5CE7?style=for-the-badge" alt="LabLab profile" />
+  </a>
+</p>
+
+*Rankings and activity indicators are dynamic and reflect their respective platforms, not a measure of engineering proficiency.*
+
+## Recognition & Competitive Achievements
+
+| Achievement | Result |
+|---|---|
+| **IBM Granite Generative AI Hackathon** | 🏆 Winning team — PolyEns |
+| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
+| **Stanford CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
+| **Stanford Code in Place** | Selected as Section Leader in 2025 and again in 2026 |
+| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
+| **AlgoVerse Research Program (EOE.ai × Omdena)** | Accepted participant; 45% merit scholarship |
+
+**Achievement evidence**
+
+- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
+- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
+- [Code in Place 2026 — second Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
+- [Code in Place 2025 and 2026 professional profile](https://www.linkedin.com/in/faraz369)
+- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
+- [AlgoVerse and other professional recognitions](https://www.linkedin.com/in/faraz369)
+
 ## About Me
 
 I am a Software Engineer focused on **backend application development, API engineering, and data-driven software systems**.
 
-I enjoy working on the foundations that make digital products function: designing APIs, structuring application data, building backend services, integrating external systems, and developing reliable workflows.
+I work primarily with Python, FastAPI, PostgreSQL, and related tools to build application backends, design data workflows, and implement services that support digital products.
 
-My engineering experience spans independent software projects, startup product development, data engineering workflows, and collaborative technical programmes. Across these experiences, I have developed a particular interest in software reliability, maintainable architecture, database design, and the behaviour of systems under failure.
+My work brings together independent engineering projects, startup product development, data-processing automation, and collaborative technical programmes.
 
-I believe good engineering is not simply about making an application work. It is about understanding the problem, making sound technical decisions, validating behaviour, and building systems that can be understood, maintained, and improved.
+I am particularly interested in the engineering decisions behind dependable software: how application data is modelled and validated, how services interact, how failures are handled, and how systems remain understandable and maintainable as they evolve.
 
-**My professional focus is backend engineering, with a growing interest in distributed systems and software reliability.**
-
-## Engineering Focus
-
-| Area | Focus |
-|---|---|
-| Backend Development | Application architecture, business logic, backend services |
-| API Engineering | REST API design, validation, integrations, error handling |
-| Database Engineering | PostgreSQL, SQL, relational modelling, data integrity |
-| Data Workflows | Data ingestion, transformation, validation, automation |
-| Software Quality | Automated testing, integration testing, maintainability |
-| Systems Engineering | Reliability, failure handling, asynchronous processing, distributed-systems fundamentals |
+My professional direction is backend engineering, with a growing focus on system reliability and distributed-systems fundamentals.
 
 ## Selected Engineering Work
 
-I prioritise projects that demonstrate how I approach real engineering problems, rather than simply listing technologies.
+### 1. AgentFault Lab
+**A controlled environment for studying failures and recovery in multi-step agent workflows.**
 
-### 1. AgentFault Lab — Testing Reliability in Agent Workflows
-
-**Python · FastAPI · Pydantic · SQLite · Docker · Next.js · Pytest**
+`Python` `FastAPI` `Pydantic` `SQLite` `Docker` `Pytest` `GitHub Actions`
 
 [Repository](https://github.com/faraz-369/agentfault-lab-Web) · [Live Interface](https://agentfault-lab-web.vercel.app/) · [Benchmark Methodology](https://github.com/faraz-369/agentfault-lab-Web/blob/main/docs/benchmark-methodology.md) · [Results](https://github.com/faraz-369/agentfault-lab-Web/tree/main/results)
 
-A software engineering project exploring how multi-step agent workflows behave when individual operations fail.
+**What I built**
+- A modular Python backend with FastAPI endpoints and a command-line interface.
+- Controlled failure injection for timeouts, exceptions, and malformed responses.
+- Structured execution records and SQLite persistence.
+- Retry and state-aware recovery policies.
+- Explicit workflow invariant checks.
+- Automated unit, API, integration, and regression tests.
+- Docker Compose development environment and GitHub Actions CI configuration.
 
-The project provides a controlled environment for introducing failures, recording execution traces, checking workflow invariants, and comparing recovery strategies.
+**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools.
 
-**Engineering work:**
-- Built a modular Python implementation with FastAPI endpoints and a command-line interface.
-- Implemented controlled fault injection, including timeouts, exceptions, and malformed responses.
-- Added structured execution records and SQLite persistence.
-- Implemented and compared no-recovery, retry, and state-aware recovery policies.
-- Added automated tests covering application behaviour and recovery scenarios.
-- Containerised the project and configured CI workflows.
+**Engineering question:** How should a multi-step workflow detect failures, preserve state, and recover without violating its intended execution rules?
 
-The documented baseline includes 45 controlled runs across three scenarios and three recovery policies.
-
-**Engineering perspective:** This project explores failure behaviour and recovery mechanisms through a deterministic test environment. Its results are limited to the implemented simulator and do not establish general production reliability.
-
----
-
-### 2. PortfolioPulse — Backend Data Application
-
-**Python · FastAPI · PostgreSQL · SQLAlchemy · Docker**
-
-A backend application focused on processing structured data, persisting it in a relational database, and making it available through application interfaces.
-
-The project represents my interest in the backend foundations behind data-driven products: ingestion, validation, persistence, and reporting.
-
-**Engineering areas:**
-- Backend application structure and API development.
-- Relational database design and PostgreSQL integration.
-- Data validation and persistence workflows.
-- Containerised development using Docker Compose.
-- Testing and improving application behaviour.
-
-*Repository and implementation details should be linked here once the final public repository is confirmed.*
+*Scope: a controlled research and engineering prototype. Its results do not establish production-wide AI-agent reliability.*
 
 ---
 
-### 3. BillBachao — Product Engineering
+### 2. PortfolioPulse
+**A multi-tenant portfolio reporting application demonstrating backend application engineering.**
 
-**Software Engineering · Product Development · Application Design**
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Docker` `Pytest`
 
-A final-year software engineering project selected for the **BICON Accelerator at NUML**, where the project continued through incubation.
+[Repository](https://github.com/faraz-369/portfoliopulse)
 
-This experience involved developing a product idea, considering user problems, working through engineering decisions, and refining the solution through feedback.
+PortfolioPulse models a reporting workflow in which organisations manage companies, reporting periods, structured submissions, reviews, and portfolio analytics.
 
-It represents another dimension of my engineering approach: connecting technical implementation with the product problem being solved.
+**Backend engineering**
+- Organisation-scoped data models and tenant isolation.
+- JWT authentication and role-based access control.
+- Password hashing with Argon2.
+- Versioned reporting templates and reporting periods.
+- CSV ingestion with actionable validation errors.
+- Submission review, approval, and resubmission history.
+- Idempotent retry handling and PostgreSQL consistency constraints.
+- Approval-gated analytics, processing logs, and audit records.
+- Database migrations with Alembic.
+- Automated tests, Ruff configuration, Docker Compose, and GitHub Actions.
 
-[Project selection and incubation announcement](https://lnkd.in/p/dHW92p6b)
+**Verification documented in the repository:** 34 tests passed in the local verification run dated 10 November 2026, including five PostgreSQL integration tests. Ruff and the documented local workflow checks also passed.
+
+The project uses synthetic data and is an independent demonstration application, not a deployed NIC Faisalabad system or a production-proven commercial product.
 
 ---
 
-### Additional Projects
+### 3. RAG Agent Failure Catalog
+**Reproducible examples of silent failures in RAG systems and AI agents.**
 
-| Project | Description | Technologies |
-|---|---|---|
-| [ComplianceRAG](https://github.com/faraz-369/ComplianceRAG) | Experimental document question-answering system with retrieval and source-grounded responses. | Python, FAISS, Sentence Transformers |
-| [HireMind-AI](https://github.com/faraz-369/HireMind-AI) | Application prototype for job-description analysis, resume feedback, and interview preparation. | Python, Streamlit, Groq API |
-| [SafeLite](https://github.com/faraz-369/SafeLite) | Research prototype exploring language-conditioned robotic manipulation in simulation. | Python, LLMs, Meta-World, MuJoCo |
+`Python` `Pytest` `LLM Evaluation` `Reliability`
 
-## Professional Experience
+[Repository](https://github.com/faraz-369/rag-agent-failure-catalog)
+
+A structured catalogue of failure patterns that can produce plausible but incorrect, incomplete, or unsupported outputs.
+
+Each failure includes:
+- A minimal reproduction.
+- A detection approach.
+- A mitigation or guardrail.
+- An explanation of the failure and its limitations.
+- Offline deterministic examples and optional live-model experiments.
+
+The catalogue covers issues such as ungrounded answers, citation drift, retrieval misses, tool-calling loops, premature termination, context pollution, silent tool failures, and numeric or date hallucinations.
+
+---
+
+### 4. AI-Powered Data Quality & Fraud Detection Pipeline
+
+`Python` `Pandas` `Scikit-learn` `Gradio`
+
+[Repository](https://github.com/faraz-369/data-quality-pipeline) · [Live Demo](https://huggingface.co/spaces/Faraz618/data-quality-pipeline)
+
+A data-processing prototype that accepts CSV files, evaluates data quality, identifies anomalous records using Isolation Forest and Z-score methods, and generates downloadable reports.
+
+It explores data validation, missing-value analysis, duplicate detection, anomaly detection, risk classification, and explainable reporting using synthetic transaction data.
+
+---
+
+## Product Engineering & Professional Experience
 
 ### MUSTER — Founder, Product & Engineering
 
-Working on an early-stage product initiative, contributing to product direction, technical planning, and application development.
+Contributing to product direction, technical planning, and application development for an early-stage venture.
 
 My involvement includes:
 - Translating product requirements into technical work.
-- Exploring application architecture and backend workflows.
-- Contributing to product development and technical decisions.
-- Working through the challenges of building an early-stage product.
+- Working through application structure and backend workflows.
+- Contributing to integrations and product implementation.
+- Evaluating engineering decisions in the context of product needs.
 
-The venture was selected into the Qatar Science & Technology Park (QSTP) startup ecosystem.
+MUSTER was selected into the Qatar Science & Technology Park (QSTP) startup ecosystem.
 
 ### NIC Faisalabad — AI & Data Engineering Intern
 
-Worked on Python-based data processing and reporting workflows involving information associated with more than 30 portfolio companies.
+Worked on Python-based data-processing and reporting workflows involving information associated with more than 30 portfolio companies.
 
-My work focused on:
-- Data extraction, transformation, and processing.
-- Automating repetitive reporting workflows.
-- Improving the accessibility and consistency of structured information.
-- Supporting analyst workflows through Python-based automation.
+My work included:
+- Data extraction, transformation, and validation.
+- Python-based reporting automation.
+- Supporting KPI analysis and recurring reporting workflows.
+- Reducing repetitive manual analyst tasks.
 
-The reported impact was approximately 60% less manual analyst effort and around 12 hours saved per week. These are internally reported estimates rather than independently audited measurements.
+Reported impact: approximately 60% less manual analyst effort and around 12 hours saved per week. These figures are self-reported estimates, not independently audited measurements.
 
 ### 1337 Ventures — Backend Development Contributor
 
-Contributed to backend development during a six-week startup accelerator sprint involving a SaaS MVP.
+Contributed to backend development during a six-week accelerator sprint for an early-stage SaaS MVP.
 
-My contribution included backend-oriented implementation work involving document-ingestion and structured-output workflows, alongside collaboration around product requirements and technical execution.
+The work involved assigned Python/FastAPI backend functionality, including document-ingestion and structured-output workflows, as part of a small team.
 
 ### Stanford Code in Place — Section Leader
 
-Selected as a Section Leader for the 2025 and 2026 programmes.
+Selected for the 2025 and 2026 programmes.
 
-Contributed to Python learning through:
+Contributed to Python education by:
 - Leading weekly learning sections.
-- Explaining programming fundamentals.
-- Helping learners approach debugging and problem-solving.
-- Supporting students as they developed programming confidence.
+- Explaining programming fundamentals and problem decomposition.
+- Supporting learners through debugging and problem-solving.
+- Helping students build confidence in their first programming experiences.
 
-## Recognition & Technical Achievements
+## Additional Projects & Technical Exploration
 
-- **IBM Granite Generative AI Hackathon:** Member of winning Team PolyEns.
-- **CALICO Spring 2025:** Team Hawkeye secured 96th place in the global coding competition.
-- **CS50 Puzzle Day:** Team Cipher Cracker solved all nine puzzles and was listed among the winning teams.
-- **BICON Accelerator, NUML:** BillBachao selected for the accelerator and continued into incubation.
-- **AlgoVerse Research Programme:** Accepted participant in the EOE.ai × Omdena programme.
-- **Stanford Code in Place:** Selected as a Section Leader in 2025 and 2026.
-- **Harvard CS50 Puzzle Day:** Use this specific institutional attribution only if the official event record confirms it.
-
-## GitHub Activity
-
-I use GitHub to document engineering work, experiment with ideas, improve existing implementations, and build a visible record of my development.
-
-[![Rankistan](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat)](https://rankistan.dev/#faraz-369)
-
-[![Pakistan GitHub Activity](https://user-badge.committers.top/pakistan/faraz-369.svg)](https://user-badge.committers.top/pakistan/faraz-369)
-
-*These badges reflect activity rankings on their respective platforms, not a measure of engineering proficiency.*
+| Project | Focus |
+|---|---|
+| [ComplianceRAG](https://github.com/faraz-369/ComplianceRAG) | Document ingestion, vector retrieval, and source-grounded question answering |
+| [HireMind-AI](https://github.com/faraz-369/HireMind-AI) | Job-description analysis, resume feedback, and interview preparation prototype |
+| [SafeLite](https://github.com/faraz-369/SafeLite) | Language-conditioned robotic manipulation research in simulation |
+| [AdvancedLeadsGeneration-AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) | Multi-agent lead evaluation; IBM Granite Hackathon winning team project |
 
 ## Technical Toolkit
 
 **Languages**
+- Python
+- SQL
+- JavaScript
 
-Python · SQL · JavaScript
+**Backend & API Development**
+- FastAPI
+- REST APIs
+- Pydantic
+- SQLAlchemy
 
-**Backend & APIs**
+**Databases & Data Engineering**
+- PostgreSQL
+- SQLite
+- Pandas
+- FAISS
 
-FastAPI · REST APIs · Pydantic · SQLAlchemy
+**Testing & Code Quality**
+- Pytest
+- HTTPX
+- Hypothesis
+- Ruff
 
-**Databases & Data**
-
-PostgreSQL · SQLite · Pandas · FAISS
-
-**Testing & Quality**
-
-Pytest · HTTPX · Hypothesis · Ruff
-
-**Development & Infrastructure**
-
-Git · GitHub Actions · Docker · Docker Compose
+**Development & Delivery**
+- Git
+- GitHub Actions
+- Docker
+- Docker Compose
 
 **Additional Technical Exposure**
-
-Groq API · Hugging Face · Sentence Transformers · LangChain · Next.js · Streamlit · Gradio
-
-## Currently Strengthening
-
-I am continuously developing my backend engineering foundations, with particular attention to:
-
-- PostgreSQL transactions, indexing, and schema design.
-- Authentication and authorisation.
-- Asynchronous processing and background jobs.
-- API security, validation, and error handling.
-- Automated testing and integration testing.
-- Logging, monitoring, and observability.
-- Distributed-systems fundamentals and reliability patterns.
+- Groq API
+- Hugging Face
+- Sentence Transformers
+- LangChain
+- Next.js
+- Streamlit
+- Gradio
 
 ## Education
 
 **BS Software Engineering**  
 National University of Modern Languages (NUML)  
-2022 – 2026
+2022–2026
 
-My academic foundation provides the basis for my work in software development, algorithms, databases, system design, and engineering problem-solving.
+## Current Engineering Focus
 
-## Let's Connect
+- PostgreSQL transactions, indexing, and database design.
+- Authentication, authorisation, and application security.
+- Asynchronous processing and background jobs.
+- API reliability and integration testing.
+- Logging, monitoring, and observability.
+- Distributed-systems fundamentals and failure-handling patterns.
 
-I am interested in connecting with software engineers, engineering teams, founders, and organisations building meaningful software products.
+## Connect
 
-If you are working on backend applications, data-intensive systems, APIs, or software reliability, I would be glad to connect.
+I am interested in backend engineering opportunities and collaborating with teams building software products, APIs, and data-intensive applications.
 
 - **Email:** faraz.outreach8@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/faraz369
-- **Portfolio:** https://faraz369.vercel.app/
-- **GitHub:** https://github.com/faraz-369
-- **Hugging Face:** https://huggingface.co/Faraz618
+- **LinkedIn:** [linkedin.com/in/faraz369](https://www.linkedin.com/in/faraz369)
+- **Portfolio:** [faraz369.vercel.app](https://faraz369.vercel.app/)
+- **GitHub:** [github.com/faraz-369](https://github.com/faraz-369)
+- **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
+- **LabLab:** [Faraz Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
 
 ---
 
 <div align="center">
 
-**Building software. Understanding systems. Improving through engineering.**
+**Engineering backend systems. Exploring reliability. Building useful software.**
 
 </div>

@@ -1,29 +1,33 @@
 
 
+
 <div align="center">
 
-# Faraz Mubeen Haider
+  <img
+    src="assets/faraz-github-header-banner.png"
+    alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering"
+    width="100%"
+  />
 
-### Software Engineer · Backend Engineering & Distributed Systems
+  <br/>
 
-Building reliable backend applications, APIs, and data-driven software systems.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/faraz369">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://faraz369.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/faraz-369">
-  <img src="https://img.shields.io/badge/GitHub-faraz--369-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://huggingface.co/Faraz618">
-  <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
+  <a href="https://www.linkedin.com/in/faraz369">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://faraz369.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/faraz-369">
+    <img src="https://img.shields.io/badge/GitHub-faraz--369-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/Faraz618">
+    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 
 </div>
+
+---
+
 
 ---
 

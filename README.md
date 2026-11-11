@@ -1,83 +1,29 @@
-
 <div align="center">
 
-  <img
-    src="./Neon%20Blue%20Software%20Engineer%20Profile%20Banner%20%281%29.png"
-    alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering, APIs and Data-Driven Systems"
-    width="100%"
-  />
+<a href="https://faraz369.vercel.app/">
+  <img src="./banner.png" alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering, APIs and Data-Driven Systems" width="100%" />
+</a>
 
-  <br/>
+<p>
+  <a href="https://www.linkedin.com/in/faraz369"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://faraz369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/faraz-369"><img src="https://img.shields.io/badge/GitHub-faraz--369-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://huggingface.co/Faraz618"><img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://lablab.ai/u/@Faraz_Mubeen"><img src="https://img.shields.io/badge/LabLab.ai-Hackathons-6C5CE7?style=flat-square" alt="LabLab profile"/></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/faraz369">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://faraz369.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/badge/GitHub-faraz--369-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/Faraz618">
-    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
+<p>
+  <a href="https://github.com/faraz-369"><img src="https://img.shields.io/github/followers/faraz-369?style=flat-square&label=Followers" alt="GitHub followers"/></a>
+  <a href="https://github.com/faraz-369?tab=repositories"><img src="https://img.shields.io/github/stars/faraz-369?style=flat-square&label=Stars" alt="GitHub stars"/></a>
+  <a href="https://rankistan.dev/#faraz-369"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat-square" alt="Rankistan developer ranking"/></a>
+  <a href="https://user-badge.committers.top/pakistan/faraz-369"><img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking"/></a>
+</p>
+
+<sub><i>Statistics and rankings are dynamic, reflect their respective platforms, and are not measures of engineering proficiency.</i></sub>
 
 </div>
 
 ---
-
-## Developer Activity & Community
-
-I use GitHub to build, document, and share engineering projects while participating in developer communities, technical programmes, and collaborative competitions.
-
-<p align="center">
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/github/followers/faraz-369?style=for-the-badge&label=GitHub%20Followers" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/faraz-369?tab=repositories">
-    <img src="https://img.shields.io/github/stars/faraz-369?style=for-the-badge&label=GitHub%20Stars" alt="GitHub stars"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://rankistan.dev/#faraz-369">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=for-the-badge" alt="Rankistan developer ranking"/>
-  </a>
-  <a href="https://user-badge.committers.top/pakistan/faraz-369">
-    <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://lablab.ai/u/@Faraz_Mubeen">
-    <img src="https://img.shields.io/badge/LabLab.ai-Hackathon%20Profile-6C5CE7?style=for-the-badge" alt="LabLab profile"/>
-  </a>
-</p>
-
-*GitHub statistics and rankings are dynamic and reflect activity on their respective platforms. They are not measures of engineering proficiency.*
-
-## Recognition & Competitive Achievements
-
-| Programme / Competition | Achievement |
-|---|---|
-| **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
-| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
-| **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
-| **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
-| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
-| **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
-
-**Achievement evidence**
-
-- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
-- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
-- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
-- [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
-- [Code in Place programme and professional profile](https://www.linkedin.com/in/faraz369)
-- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
-- [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
-
-*Team achievements are identified as team results; individual selections are described separately.*
 
 ## About Me
 
@@ -236,6 +182,29 @@ Contributed to Python education by:
 - Explaining programming fundamentals and problem decomposition.
 - Supporting learners through debugging and problem-solving.
 - Helping students build confidence in their first programming experiences.
+
+## Recognition & Competitive Achievements
+
+| Programme / Competition | Achievement |
+|---|---|
+| **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
+| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
+| **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
+| **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
+| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
+| **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
+
+**Achievement evidence**
+
+- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
+- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
+- [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
+- [Code in Place programme and professional profile](https://www.linkedin.com/in/faraz369)
+- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
+- [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
+
+*Team achievements are identified as team results; individual selections are described separately.*
 
 ## Additional Projects & Technical Exploration
 

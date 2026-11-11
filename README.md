@@ -1,20 +1,17 @@
-
-<div align="center">
+ <div align="center">
 
   <!-- PROFILE BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=210&section=header&text=Faraz%20Mubeen%20Haider&fontSize=42&fontColor=F1F5F9&fontAlignY=40&desc=BACKEND%20SOFTWARE%20ENGINEER&descSize=17&descColor=5EEAD4&descAlignY=67"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=19&descColor=5EEAD4&descAlignY=62"
     width="100%"
-    alt="Faraz Mubeen Haider — Backend Software Engineer"
+    alt="Faraz Mubeen Haider — Software Engineer"
   />
 
   <br/>
 
-  <p>
-    <b>Backend Engineering</b> &nbsp;·&nbsp;
-    <b>APIs</b> &nbsp;·&nbsp;
-    <b>Data-Driven Applications</b>
-  </p>
+  **Backend Systems** &nbsp;·&nbsp; **Distributed Systems** &nbsp;·&nbsp; **Applied AI**
+
+  <br/><br/>
 
   <a href="https://www.linkedin.com/in/faraz369">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,25 +32,32 @@
 
 ## About Me
 
-I am a Software Engineer focused on **backend application development, API engineering, and data-driven software systems**.
+I am a **Software Engineer** interested in building reliable software systems, developing backend applications, and applying AI to practical engineering problems.
 
-I work primarily with Python, FastAPI, PostgreSQL, and related technologies to build application backends, design data workflows, and implement services that support digital products.
+My primary engineering work focuses on Python, FastAPI, PostgreSQL, API development, data processing, and application architecture.
 
-My experience spans independent engineering projects, startup product development, data-processing automation, and collaborative technical programmes.
+I am particularly interested in the engineering foundations behind modern software products:
 
-I am particularly interested in the engineering decisions behind dependable software: how application data is modelled and validated, how services interact, how failures are handled, and how systems remain understandable and maintainable as they evolve.
+- Designing maintainable backend applications and APIs.
+- Modelling data and building reliable database-backed services.
+- Understanding distributed systems, service communication, and failure handling.
+- Integrating AI capabilities into useful software applications.
+- Evaluating system behaviour through testing, experimentation, and reproducible workflows.
 
-My professional direction is backend engineering, with a growing interest in system reliability and distributed-systems fundamentals.
+My work spans independent engineering projects, startup product development, data-processing automation, AI application prototypes, and collaborative technical programmes.
+
+I aim to build software that is understandable, dependable, maintainable, and useful in real-world applications.
 
 ## Engineering Focus
 
-| Area | What I work on |
+| Area | Focus |
 |---|---|
-| **Backend Application Development** | API design, application logic, validation, authentication, and maintainable services |
-| **Database Engineering** | Relational data modelling, PostgreSQL, transactions, migrations, and data integrity |
-| **Data Processing** | ETL workflows, CSV ingestion, validation, transformation, and reporting |
-| **Testing & Reliability** | Automated testing, failure handling, integration testing, and structured execution |
-| **System Design** | Service boundaries, application architecture, and distributed-systems fundamentals |
+| **Backend Engineering** | API design, application logic, authentication, integrations, and maintainable services |
+| **Distributed Systems** | Service communication, reliability, failure handling, state management, and system fundamentals |
+| **Database Engineering** | PostgreSQL, relational modelling, transactions, migrations, and data integrity |
+| **Applied AI** | RAG applications, AI integrations, agent workflows, evaluation, and reliability |
+| **Data Engineering** | Data extraction, transformation, validation, ETL workflows, and reporting |
+| **Testing & Reliability** | Automated testing, integration testing, error handling, and reproducible evaluation |
 
 ---
 
@@ -69,7 +73,7 @@ My professional direction is backend engineering, with a growing interest in sys
 
 PortfolioPulse models a reporting workflow in which organisations manage companies, reporting periods, structured submissions, reviews, and portfolio analytics.
 
-**Backend engineering**
+**Engineering implementation**
 
 - Organisation-scoped data models and tenant isolation.
 - JWT authentication and role-based access control.
@@ -255,6 +259,13 @@ Contributed to Python education by:
 ![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=5EEAD4)
 ![FAISS](https://img.shields.io/badge/FAISS-334155?style=flat-square)
 
+**Applied AI & AI Frameworks**
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-334155?style=flat-square&logo=huggingface&logoColor=5EEAD4)
+![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-334155?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-334155?style=flat-square)
+
 **Testing & Code Quality**
 
 ![Pytest](https://img.shields.io/badge/Pytest-334155?style=flat-square&logo=pytest&logoColor=5EEAD4)
@@ -270,10 +281,6 @@ Contributed to Python education by:
 
 **Additional Technical Exposure**
 
-- Groq API
-- Hugging Face
-- Sentence Transformers
-- LangChain
 - Next.js
 - Streamlit
 - Gradio
@@ -324,18 +331,20 @@ National University of Modern Languages (NUML)
 
 ## Current Engineering Focus
 
+- Backend application architecture and maintainable service design.
 - PostgreSQL transactions, indexing, and database design.
+- Distributed-systems fundamentals and service communication.
 - Authentication, authorisation, and application security.
 - Asynchronous processing and background jobs.
-- API reliability and integration testing.
+- API reliability, testing, and integration patterns.
 - Logging, monitoring, and observability.
-- Distributed-systems fundamentals and failure-handling patterns.
+- Applied AI integration, RAG evaluation, and failure-handling patterns.
 
 ---
 
 ## Connect
 
-I am interested in backend engineering opportunities and collaborating with teams building software products, APIs, and data-intensive applications.
+I am interested in software engineering opportunities and collaborating with teams building backend applications, distributed software systems, and AI-enabled products.
 
 <div align="center">
 
@@ -363,6 +372,6 @@ I am interested in backend engineering opportunities and collaborating with team
 
   <br/><br/>
 
-  <sub>Engineering backend systems. Exploring reliability. Building useful software.</sub>
+  **Engineering systems. Understanding complexity. Applying intelligence.**
 
 </div>

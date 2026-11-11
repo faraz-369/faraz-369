@@ -2,8 +2,8 @@
 <div align="center">
 
   <img
-    src="./Neon%20Blue%20Software%20Engineer%20Profile%20Banner%20%281%29.png"
-    alt="Faraz Mubeen Haider — Software Engineer | Backend Engineering, APIs and Data-Driven Systems"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1426,100:0CA6E8&height=180&section=header&text=Faraz%20Mubeen%20Haider&fontSize=42&fontColor=ffffff&fontAlignY=55"
+    alt="Faraz Mubeen Haider — Software Engineer"
     width="100%"
   />
 

@@ -1,83 +1,37 @@
 
 <div align="center">
 
+  <!-- PROFILE BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1426,100:0CA6E8&height=180&section=header&text=Faraz%20Mubeen%20Haider&fontSize=42&fontColor=ffffff&fontAlignY=55"
-    alt="Faraz Mubeen Haider — Software Engineer"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=210&section=header&text=Faraz%20Mubeen%20Haider&fontSize=42&fontColor=F1F5F9&fontAlignY=40&desc=BACKEND%20SOFTWARE%20ENGINEER&descSize=17&descColor=5EEAD4&descAlignY=67"
     width="100%"
+    alt="Faraz Mubeen Haider — Backend Software Engineer"
   />
 
   <br/>
 
+  <p>
+    <b>Backend Engineering</b> &nbsp;·&nbsp;
+    <b>APIs</b> &nbsp;·&nbsp;
+    <b>Data-Driven Applications</b>
+  </p>
+
   <a href="https://www.linkedin.com/in/faraz369">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://faraz369.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/badge/GitHub-faraz--369-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://huggingface.co/Faraz618">
-    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-Profile-334155?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
   </a>
 
 </div>
 
 ---
-
-## Developer Activity & Community
-
-I use GitHub to build, document, and share engineering projects while participating in developer communities, technical programmes, and collaborative competitions.
-
-<p align="center">
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/github/followers/faraz-369?style=for-the-badge&label=GitHub%20Followers" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/faraz-369?tab=repositories">
-    <img src="https://img.shields.io/github/stars/faraz-369?style=for-the-badge&label=GitHub%20Stars" alt="GitHub stars"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://rankistan.dev/#faraz-369">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=for-the-badge" alt="Rankistan developer ranking"/>
-  </a>
-  <a href="https://user-badge.committers.top/pakistan/faraz-369">
-    <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://lablab.ai/u/@Faraz_Mubeen">
-    <img src="https://img.shields.io/badge/LabLab.ai-Hackathon%20Profile-6C5CE7?style=for-the-badge" alt="LabLab profile"/>
-  </a>
-</p>
-
-*GitHub statistics and rankings are dynamic and reflect activity on their respective platforms. They are not measures of engineering proficiency.*
-
-## Recognition & Competitive Achievements
-
-| Programme / Competition | Achievement |
-|---|---|
-| **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
-| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
-| **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
-| **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
-| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
-| **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
-
-**Achievement evidence**
-
-- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
-- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
-- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
-- [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
-- [Code in Place programme and professional profile](https://www.linkedin.com/in/faraz369)
-- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
-- [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
-
-*Team achievements are identified as team results; individual selections are described separately.*
 
 ## About Me
 
@@ -101,35 +55,11 @@ My professional direction is backend engineering, with a growing interest in sys
 | **Testing & Reliability** | Automated testing, failure handling, integration testing, and structured execution |
 | **System Design** | Service boundaries, application architecture, and distributed-systems fundamentals |
 
-## Selected Engineering Projects
-
-### 1. AgentFault Lab
-
-**A controlled environment for studying failures and recovery in multi-step agent workflows.**
-
-`Python` `FastAPI` `Pydantic` `SQLite` `Docker` `Pytest` `GitHub Actions`
-
-[Repository](https://github.com/faraz-369/agentfault-lab-Web) · [Live Interface](https://agentfault-lab-web.vercel.app/) · [Benchmark Methodology](https://github.com/faraz-369/agentfault-lab-Web/blob/main/docs/benchmark-methodology.md) · [Results](https://github.com/faraz-369/agentfault-lab-Web/tree/main/results)
-
-**What I built**
-
-- A modular Python backend with FastAPI endpoints and a command-line interface.
-- Controlled failure injection for timeouts, exceptions, and malformed responses.
-- Structured execution records and SQLite persistence.
-- Retry and state-aware recovery policies.
-- Explicit workflow invariant checks.
-- Automated unit, API, integration, and regression tests.
-- Docker Compose development environment and GitHub Actions CI configuration.
-
-**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools.
-
-**Engineering question:** How should a multi-step workflow detect failures, preserve state, and recover without violating its intended execution rules?
-
-*Scope: This is a controlled engineering and research prototype. Its results do not establish production-wide AI-agent reliability.*
-
 ---
 
-### 2. PortfolioPulse
+## Featured Engineering Projects
+
+### 01. PortfolioPulse
 
 **A multi-tenant portfolio reporting application demonstrating backend application engineering.**
 
@@ -158,7 +88,33 @@ The project uses synthetic data and is an independent demonstration application,
 
 ---
 
-### 3. RAG Agent Failure Catalog
+### 02. AgentFault Lab
+
+**A controlled environment for studying failures and recovery in multi-step agent workflows.**
+
+`Python` `FastAPI` `Pydantic` `SQLite` `Docker` `Pytest` `GitHub Actions`
+
+[Repository](https://github.com/faraz-369/agentfault-lab-Web) · [Live Interface](https://agentfault-lab-web.vercel.app/) · [Benchmark Methodology](https://github.com/faraz-369/agentfault-lab-Web/blob/main/docs/benchmark-methodology.md) · [Results](https://github.com/faraz-369/agentfault-lab-Web/tree/main/results)
+
+**What I built**
+
+- A modular Python backend with FastAPI endpoints and a command-line interface.
+- Controlled failure injection for timeouts, exceptions, and malformed responses.
+- Structured execution records and SQLite persistence.
+- Retry and state-aware recovery policies.
+- Explicit workflow invariant checks.
+- Automated unit, API, integration, and regression tests.
+- Docker Compose development environment and GitHub Actions CI configuration.
+
+**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools.
+
+**Engineering question:** How should a multi-step workflow detect failures, preserve state, and recover without violating its intended execution rules?
+
+*Scope: This is a controlled engineering and research prototype. Its results do not establish production-wide AI-agent reliability.*
+
+---
+
+### 03. RAG Agent Failure Catalog
 
 **Reproducible examples of silent failures in RAG systems and AI-agent workflows.**
 
@@ -180,7 +136,7 @@ The catalogue explores issues such as ungrounded answers, citation drift, retrie
 
 ---
 
-### 4. Data Quality & Anomaly Detection Pipeline
+### 04. Data Quality & Anomaly Detection Pipeline
 
 **A data-processing prototype for validating datasets and identifying anomalous records.**
 
@@ -191,6 +147,8 @@ The catalogue explores issues such as ungrounded answers, citation drift, retrie
 A data-processing application that accepts CSV files, evaluates data quality, identifies anomalous records using Isolation Forest and Z-score methods, and generates downloadable reports.
 
 It explores data validation, missing-value analysis, duplicate detection, anomaly detection, risk classification, and reporting using synthetic transaction data.
+
+---
 
 ## Product Engineering & Professional Experience
 
@@ -237,6 +195,33 @@ Contributed to Python education by:
 - Supporting learners through debugging and problem-solving.
 - Helping students build confidence in their first programming experiences.
 
+---
+
+## Recognition & Competitive Achievements
+
+| Programme / Competition | Achievement |
+|---|---|
+| **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
+| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
+| **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
+| **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
+| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
+| **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
+
+**Achievement evidence**
+
+- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
+- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
+- [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
+- [Code in Place programme and professional profile](https://www.linkedin.com/in/faraz369)
+- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
+- [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
+
+*Team achievements are identified as team results; individual selections are described separately.*
+
+---
+
 ## Additional Projects & Technical Exploration
 
 | Project | Focus |
@@ -246,37 +231,45 @@ Contributed to Python education by:
 | [SafeLite](https://github.com/faraz-369/SafeLite) | Language-conditioned robotic manipulation research in simulation |
 | [AdvancedLeadsGeneration-AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) | Multi-agent lead evaluation; IBM Granite Hackathon winning team project |
 
+---
+
 ## Technical Toolkit
 
 **Languages**
-- Python
-- SQL
-- JavaScript
+
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=5EEAD4)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=5EEAD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=FACC15)
 
 **Backend & API Development**
-- FastAPI
-- REST APIs
-- Pydantic
-- SQLAlchemy
+
+![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=5EEAD4)
+![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-334155?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-334155?style=flat-square&logo=sqlalchemy&logoColor=5EEAD4)
 
 **Databases & Data Engineering**
-- PostgreSQL
-- SQLite
-- Pandas
-- FAISS
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=5EEAD4)
+![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=5EEAD4)
+![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=5EEAD4)
+![FAISS](https://img.shields.io/badge/FAISS-334155?style=flat-square)
 
 **Testing & Code Quality**
-- Pytest
-- HTTPX
-- Ruff
+
+![Pytest](https://img.shields.io/badge/Pytest-334155?style=flat-square&logo=pytest&logoColor=5EEAD4)
+![HTTPX](https://img.shields.io/badge/HTTPX-334155?style=flat-square)
+![Ruff](https://img.shields.io/badge/Ruff-334155?style=flat-square)
 
 **Development & Delivery**
-- Git
-- GitHub Actions
-- Docker
-- Docker Compose
+
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=5EEAD4)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-334155?style=flat-square&logo=githubactions&logoColor=5EEAD4)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=5EEAD4)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-334155?style=flat-square&logo=docker&logoColor=5EEAD4)
 
 **Additional Technical Exposure**
+
 - Groq API
 - Hugging Face
 - Sentence Transformers
@@ -285,11 +278,49 @@ Contributed to Python education by:
 - Streamlit
 - Gradio
 
+---
+
+## Developer Activity & Community
+
+I use GitHub to build, document, and share engineering projects while participating in developer communities, technical programmes, and collaborative competitions.
+
+<div align="center">
+
+  <a href="https://github.com/faraz-369">
+    <img src="https://img.shields.io/github/followers/faraz-369?style=flat-square&label=Followers&color=0F766E" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/faraz-369?tab=repositories">
+    <img src="https://img.shields.io/github/stars/faraz-369?style=flat-square&label=Stars&color=0F766E" alt="GitHub stars"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://rankistan.dev/#faraz-369">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat-square" alt="Rankistan developer ranking"/>
+  </a>
+  <a href="https://user-badge.committers.top/pakistan/faraz-369">
+    <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://lablab.ai/u/@Faraz_Mubeen">
+    <img src="https://img.shields.io/badge/LabLab.ai-Hackathon%20Profile-0F766E?style=flat-square" alt="LabLab profile"/>
+  </a>
+
+</div>
+
+*GitHub statistics and rankings are dynamic and reflect activity on their respective platforms. They are not measures of engineering proficiency.*
+
+---
+
 ## Education
 
 **BS Software Engineering**  
 National University of Modern Languages (NUML)  
 2022–2026
+
+---
 
 ## Current Engineering Focus
 
@@ -300,21 +331,38 @@ National University of Modern Languages (NUML)
 - Logging, monitoring, and observability.
 - Distributed-systems fundamentals and failure-handling patterns.
 
+---
+
 ## Connect
 
 I am interested in backend engineering opportunities and collaborating with teams building software products, APIs, and data-intensive applications.
 
-- **Email:** faraz.outreach8@gmail.com
-- **LinkedIn:** [linkedin.com/in/faraz369](https://www.linkedin.com/in/faraz369)
-- **Portfolio:** [faraz369.vercel.app](https://faraz369.vercel.app/)
-- **GitHub:** [github.com/faraz-369](https://github.com/faraz-369)
-- **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
-- **LabLab:** [Faraz Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
-
----
-
 <div align="center">
 
-**Engineering backend systems. Exploring reliability. Building useful software.**
+  <a href="mailto:faraz.outreach8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/faraz369">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://faraz369.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/faraz-369">
+    <img src="https://img.shields.io/badge/GitHub-faraz--369-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/Faraz618">
+    <img src="https://img.shields.io/badge/Hugging_Face-Faraz618-334155?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  </a>
+  <a href="https://lablab.ai/u/@Faraz_Mubeen">
+    <img src="https://img.shields.io/badge/LabLab-Faraz_Mubeen-334155?style=flat-square" alt="LabLab"/>
+  </a>
+
+  <br/><br/>
+
+  <sub>Engineering backend systems. Exploring reliability. Building useful software.</sub>
 
 </div>

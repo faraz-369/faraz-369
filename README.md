@@ -1,15 +1,19 @@
- <div align="center">
+<div align="center">
 
   <!-- PROFILE BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=19&descColor=5EEAD4&descAlignY=62"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=BACKEND%20ENGINEER%20%C2%B7%20AI%20SYSTEMS&descSize=19&descColor=5EEAD4&descAlignY=62"
     width="100%"
-    alt="Faraz Mubeen Haider — Software Engineer"
+    alt="Faraz Mubeen Haider — Backend Engineer, AI Systems"
   />
 
   <br/>
 
-  **Backend Systems** &nbsp;·&nbsp; **Distributed Systems** &nbsp;·&nbsp; **Applied AI**
+  **Python · FastAPI · PostgreSQL** &nbsp;·&nbsp; **LLM & agent workflows** &nbsp;·&nbsp; **Testing & evaluation**
+
+  <br/>
+
+  *I engineer intelligent systems that continuously create measurable value.*
 
   <br/><br/>
 
@@ -32,32 +36,21 @@
 
 ## About Me
 
-I am a **Software Engineer** interested in building reliable software systems, developing backend applications, and applying AI to practical engineering problems.
+I build the backend software around LLM features, and I make it testable, reliable, and measurable.
 
-My primary engineering work focuses on Python, FastAPI, PostgreSQL, API development, data processing, and application architecture.
+I work mainly with Python, FastAPI, and PostgreSQL. My projects focus on database-backed services, retrieval-augmented generation (RAG), and multi-step agent workflows, each with automated tests or explicit checks.
 
-I am particularly interested in the engineering foundations behind modern software products:
+I currently work as a Full Stack Agentic AI Engineer at Techloset. Before that, I worked on data-processing automation at NIC Faisalabad, product prototypes at MUSTER, and backend components at 1337 Ventures.
 
-- Designing maintainable backend applications and APIs.
-- Modelling data and building reliable database-backed services.
-- Understanding distributed systems, service communication, and failure handling.
-- Integrating AI capabilities into useful software applications.
-- Evaluating system behaviour through testing, experimentation, and reproducible workflows.
-
-My work spans independent engineering projects, startup product development, data-processing automation, AI application prototypes, and collaborative technical programmes.
-
-I aim to build software that is understandable, dependable, maintainable, and useful in real-world applications.
-
-## Engineering Focus
+## What I Focus On
 
 | Area | Focus |
 |---|---|
 | **Backend Engineering** | API design, application logic, authentication, integrations, and maintainable services |
-| **Distributed Systems** | Service communication, reliability, failure handling, state management, and system fundamentals |
-| **Database Engineering** | PostgreSQL, relational modelling, transactions, migrations, and data integrity |
-| **Applied AI** | RAG applications, AI integrations, agent workflows, evaluation, and reliability |
+| **Applied AI** | RAG applications, agent workflows, LLM integrations, structured outputs |
+| **Testing & Evaluation** | Automated tests, invariant checks, failure injection, and reproducible evaluation |
 | **Data Engineering** | Data extraction, transformation, validation, ETL workflows, and reporting |
-| **Testing & Reliability** | Automated testing, integration testing, error handling, and reproducible evaluation |
+| **Database Engineering** | PostgreSQL, relational modelling, migrations, and data integrity |
 
 ---
 
@@ -110,7 +103,7 @@ The project uses synthetic data and is an independent demonstration application,
 - Automated unit, API, integration, and regression tests.
 - Docker Compose development environment and GitHub Actions CI configuration.
 
-**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools.
+**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools. Methodology and results are linked above.
 
 **Engineering question:** How should a multi-step workflow detect failures, preserve state, and recover without violating its intended execution rules?
 
@@ -154,71 +147,80 @@ It explores data validation, missing-value analysis, duplicate detection, anomal
 
 ---
 
-## Product Engineering & Professional Experience
+## Professional Experience
 
-### MUSTER — Founder, Product & Engineering
+### Techloset — Full Stack Agentic AI Engineer
+*November 2026 – Present*
 
-Contributing to product direction, technical planning, and application development for an early-stage venture.
+Translating client business requirements into AI-powered software solutions.
 
-My involvement includes:
+- Analysing client challenges and turning business needs into technical requirements.
+- Working with engineering teams on LLM-integrated workflows, from solution development through delivery.
 
-- Translating product requirements into technical work.
-- Working through application structure and backend workflows.
-- Contributing to integrations and product implementation.
-- Evaluating engineering decisions in the context of product needs.
+### MUSTER — Product Engineer
+*January 2026 – October 2026*
+
+Defined and prototyped an AI-powered lead-qualification workflow for real-estate brokers.
+
+- Mapped real-estate workflows (lead qualification, follow-ups, property-viewing coordination) and turned user needs into product functionality.
+- Designed and developed prototypes demonstrating automated lead qualification.
+- Ran product demos with prospective users to validate use cases and gather feedback.
+- Researched and mapped prospects across Qatar, Pakistan, and selected GCC markets, and drafted ideal-customer-profile criteria to prioritise them.
 
 MUSTER was selected into the Qatar Science & Technology Park (QSTP) startup ecosystem.
 
-### NIC Faisalabad — AI & Data Engineering Intern
+### lablab.ai — Applied AI Developer
+*August 2024 – August 2026*
 
-Worked on Python-based data-processing and reporting workflows involving information associated with more than 30 portfolio companies.
+Built and demonstrated AI prototypes under hackathon deadlines, including as part of the winning team at the IBM Granite Generative AI Hackathon.
 
-My work included:
-
-- Data extraction, transformation, and validation.
-- Python-based reporting automation.
-- Supporting KPI analysis and recurring reporting workflows.
-- Reducing repetitive manual analyst tasks.
-
-**Reported impact:** Approximately 60% less manual analyst effort and around 12 hours saved per week. These figures are self-reported estimates, not independently audited measurements.
-
-### 1337 Ventures — Backend Development Contributor
-
-Contributed to backend development during a six-week accelerator sprint for an early-stage SaaS MVP.
-
-The work involved assigned Python/FastAPI backend functionality, including document-ingestion and structured-output workflows, as part of a small team.
+- Implemented retrieval-augmented generation workflows using document retrieval, embeddings, and semantic search.
+- Integrated LLM capabilities into application prototypes built with Python, FastAPI, and REST APIs.
+- Built multi-step agent workflows with task decomposition, structured outputs, and tool integration.
 
 ### Stanford Code in Place — Section Leader
+*2025 and 2026 programmes*
 
-Selected for the 2025 and 2026 programmes.
+Led weekly live Python sessions for beginner cohorts, guiding learners through exercises, debugging, and problem-solving, and giving feedback on assignments.
 
-Contributed to Python education by:
+### 1337 Ventures — Backend Developer
+*June 2025 – September 2025*
 
-- Leading weekly learning sections.
-- Explaining programming fundamentals and problem decomposition.
-- Supporting learners through debugging and problem-solving.
-- Helping students build confidence in their first programming experiences.
+Contributed backend components to an AI automation SaaS MVP during a six-week accelerator sprint.
+
+- Implemented backend functionality in Python and FastAPI for the MVP's AI automation features.
+- Contributed to application workflows for document ingestion and structured-output generation.
+- Worked with the startup team through product development and iteration.
+
+### NIC Faisalabad — AI / Data Engineer
+*January 2024 – August 2024*
+
+Automated KPI reporting for a portfolio of 30+ startups.
+
+- Built ETL workflows in Python, Pandas, SQLAlchemy, and PostgreSQL to process portfolio performance data.
+- Automated recurring cohort, retention, and funding reports.
+- Added data-quality checks to keep reporting outputs consistent and reliable.
+- Used Jupyter and Papermill to make reports reproducible.
+
+**Reported impact:** Associated with about 60% less manual analyst time and about 12 hours a week of repetitive spreadsheet work. These figures are self-reported estimates, not independently audited measurements.
 
 ---
 
-## Recognition & Competitive Achievements
+## Recognition
 
 | Programme / Competition | Achievement |
 |---|---|
 | **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
-| **CALICO Spring 2025 Global Coding Competition** | 96th place — Team Hawkeye |
 | **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
 | **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
 | **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
 | **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
 
-**Achievement evidence**
+**Evidence**
 
 - [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
-- [CALICO Spring 2025 — Team Hawkeye result](https://lnkd.in/p/dvSMCMnP)
 - [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
 - [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
-- [Code in Place programme and professional profile](https://www.linkedin.com/in/faraz369)
 - [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
 - [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
 
@@ -259,10 +261,9 @@ Contributed to Python education by:
 ![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=5EEAD4)
 ![FAISS](https://img.shields.io/badge/FAISS-334155?style=flat-square)
 
-**Applied AI & AI Frameworks**
+**Applied AI**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-334155?style=flat-square&logo=huggingface&logoColor=5EEAD4)
-![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-334155?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq_API-334155?style=flat-square)
 
@@ -281,43 +282,10 @@ Contributed to Python education by:
 
 **Additional Technical Exposure**
 
+- LangChain
 - Next.js
 - Streamlit
 - Gradio
-
----
-
-## Developer Activity & Community
-
-I use GitHub to build, document, and share engineering projects while participating in developer communities, technical programmes, and collaborative competitions.
-
-<div align="center">
-
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/github/followers/faraz-369?style=flat-square&label=Followers&color=0F766E" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/faraz-369?tab=repositories">
-    <img src="https://img.shields.io/github/stars/faraz-369?style=flat-square&label=Stars&color=0F766E" alt="GitHub stars"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://rankistan.dev/#faraz-369">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat-square" alt="Rankistan developer ranking"/>
-  </a>
-  <a href="https://user-badge.committers.top/pakistan/faraz-369">
-    <img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="Pakistan GitHub activity ranking"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://lablab.ai/u/@Faraz_Mubeen">
-    <img src="https://img.shields.io/badge/LabLab.ai-Hackathon%20Profile-0F766E?style=flat-square" alt="LabLab profile"/>
-  </a>
-
-</div>
-
-*GitHub statistics and rankings are dynamic and reflect activity on their respective platforms. They are not measures of engineering proficiency.*
 
 ---
 
@@ -329,22 +297,20 @@ National University of Modern Languages (NUML)
 
 ---
 
-## Current Engineering Focus
+## Currently Deepening
 
-- Backend application architecture and maintainable service design.
+- Evaluating LLM and agent workflows with measurable, reproducible tests.
 - PostgreSQL transactions, indexing, and database design.
-- Distributed-systems fundamentals and service communication.
 - Authentication, authorisation, and application security.
 - Asynchronous processing and background jobs.
-- API reliability, testing, and integration patterns.
 - Logging, monitoring, and observability.
-- Applied AI integration, RAG evaluation, and failure-handling patterns.
+- Distributed-systems fundamentals and service communication.
 
 ---
 
 ## Connect
 
-I am interested in software engineering opportunities and collaborating with teams building backend applications, distributed software systems, and AI-enabled products.
+I am looking for remote backend and AI-systems engineering roles, especially with teams in Europe.
 
 <div align="center">
 
@@ -372,6 +338,6 @@ I am interested in software engineering opportunities and collaborating with tea
 
   <br/><br/>
 
-  **Engineering systems. Understanding complexity. Applying intelligence.**
+  *I engineer intelligent systems that continuously create measurable value.*
 
 </div>

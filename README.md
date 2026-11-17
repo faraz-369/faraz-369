@@ -2,14 +2,14 @@
 
   <!-- PROFILE BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=BACKEND%20ENGINEER%20%C2%B7%20AI%20SYSTEMS&descSize=19&descColor=5EEAD4&descAlignY=62"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:101B27,100:0F766E&height=220&section=header&text=Faraz%20Mubeen%20Haider&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=BACKEND%20ENGINEER%20%C2%B7%20AI%20SYSTEMS%20%C2%B7%20AI%20RISK%20%26%20SECURITY&descSize=17&descColor=5EEAD4&descAlignY=62"
     width="100%"
-    alt="Faraz Mubeen Haider — Backend Engineer, AI Systems"
+    alt="Faraz Mubeen Haider — Backend Engineer, AI Systems, AI Risk & Security"
   />
 
   <br/>
 
-  **Python · FastAPI · PostgreSQL** &nbsp;·&nbsp; **LLM & agent workflows** &nbsp;·&nbsp; **Testing & evaluation**
+  **Python · FastAPI · PostgreSQL** &nbsp;·&nbsp; **LLM & agent workflows** &nbsp;·&nbsp; **Testing, evaluation & reliability**
 
   <br/>
 
@@ -36,21 +36,23 @@
 
 ## About Me
 
-I build the backend software around LLM features, and I make it testable, reliable, and measurable.
+I build the backend software around LLM features and agent workflows, with a strong focus on making those systems **secure, reliable, and resilient**.
 
-I work mainly with Python, FastAPI, and PostgreSQL. My projects focus on database-backed services, retrieval-augmented generation (RAG), and multi-step agent workflows, each with automated tests or explicit checks.
+I work mainly with Python, FastAPI, and PostgreSQL. My projects centre on database-backed services, retrieval-augmented generation (RAG), multi-step agent workflows, and systematic approaches to testing, failure detection, and evaluation.
 
 I currently work as a Full Stack Agentic AI Engineer at Techloset. Before that, I worked on data-processing automation at NIC Faisalabad, product prototypes at MUSTER, and backend components at 1337 Ventures.
+
+---
 
 ## What I Focus On
 
 | Area | Focus |
 |---|---|
 | **Backend Engineering** | API design, application logic, authentication, integrations, and maintainable services |
-| **Applied AI** | RAG applications, agent workflows, LLM integrations, structured outputs |
-| **Testing & Evaluation** | Automated tests, invariant checks, failure injection, and reproducible evaluation |
-| **Data Engineering** | Data extraction, transformation, validation, ETL workflows, and reporting |
-| **Database Engineering** | PostgreSQL, relational modelling, migrations, and data integrity |
+| **Applied AI Systems** | RAG applications, agent workflows, LLM integrations, structured outputs |
+| **Reliability & Evaluation** | Automated tests, invariant checks, failure injection, reproducible evaluation |
+| **AI Risk & Security Mindset** | Understanding failure modes, guardrails, threat surfaces in LLM/agent systems, and building more robust systems |
+| **Data & Database Engineering** | Data extraction, transformation, validation, ETL workflows, PostgreSQL, relational modelling |
 
 ---
 
@@ -300,6 +302,7 @@ National University of Modern Languages (NUML)
 ## Currently Deepening
 
 - Evaluating LLM and agent workflows with measurable, reproducible tests.
+- Understanding failure modes, guardrails, and threat surfaces in AI systems.
 - PostgreSQL transactions, indexing, and database design.
 - Authentication, authorisation, and application security.
 - Asynchronous processing and background jobs.
@@ -310,7 +313,7 @@ National University of Modern Languages (NUML)
 
 ## Connect
 
-I am looking for remote backend and AI-systems engineering roles, especially with teams in Europe.
+I am looking for remote backend and AI-systems engineering roles, especially with teams that care about building secure, reliable, and resilient AI systems.
 
 <div align="center">
 
@@ -338,6 +341,6 @@ I am looking for remote backend and AI-systems engineering roles, especially wit
 
   <br/><br/>
 
-  *I engineer intelligent systems that continuously create measurable value.*
+  *I engineer intelligent systems that are secure, reliable, and resilient.*
 
 </div>

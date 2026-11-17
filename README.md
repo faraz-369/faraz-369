@@ -2,10 +2,10 @@
 
   <!-- PROFILE BANNER (hosted in this repo: assets/banner.png) -->
   <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Faraz Mubeen Haider — Backend Engineer, AI Systems, AI Risk & Security"
-  />
+  src="https://raw.githubusercontent.com/faraz-369/faraz-369/main/assets/banner.png"
+  width="100%"
+  alt="Faraz Mubeen Haider — Backend Engineer, AI Systems, AI Risk & Security"
+/>
 
   <br/>
 

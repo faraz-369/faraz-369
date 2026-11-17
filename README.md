@@ -13,7 +13,7 @@
 
   <br/>
 
-  *I engineer intelligent systems that continuously create measurable value.*
+  *I make AI systems secure, reliable, and resilient.*
 
   <br/><br/>
 

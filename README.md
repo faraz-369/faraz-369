@@ -1,349 +1,185 @@
-<div align="center">
+# Faraz Mubeen Haider
 
-  <!-- HEADER (no image upload needed - works everywhere on GitHub) -->
-  <h1>Faraz Mubeen Haider</h1>
+**AI SYSTEMS ENGINEER · AGENTIC AI · AI SECURITY & RELIABILITY**
 
-  <img src="https://img.shields.io/badge/BACKEND_ENGINEER-0F172A?style=for-the-badge" alt="Backend Engineer"/>
-  <img src="https://img.shields.io/badge/AI_SYSTEMS-0F766E?style=for-the-badge" alt="AI Systems"/>
-  <img src="https://img.shields.io/badge/AI_RISK_%26_SECURITY-115E59?style=for-the-badge" alt="AI Risk and Security"/>
+Python · FastAPI · PostgreSQL · LLMs · Agent Workflows · Testing & Evaluation
 
-  <br/>
+*I engineer AI systems that are secure, reliable, measurable, and resilient.*
 
-  **Python · FastAPI · PostgreSQL** &nbsp;·&nbsp; **LLM & agent workflows** &nbsp;·&nbsp; **Testing, evaluation & reliability**
-
-  <br/>
-
-  *I engineer intelligent systems that are secure, reliable & resilient.*
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/faraz369">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://faraz369.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/badge/GitHub-Profile-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/Faraz618">
-    <img src="https://img.shields.io/badge/Hugging_Face-Profile-334155?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  </a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/faraz369) · [Portfolio](https://faraz369.vercel.app/) · [GitHub](https://github.com/faraz-369) · [Hugging Face](https://huggingface.co/Faraz618)
 
 ---
 
 ## About Me
 
-As AI systems gain more capability and autonomy, the engineering around them matters more: how they fail, how they are attacked, and how they recover. I work on that problem from the backend side.
+I build the engineering infrastructure around LLM applications and agentic AI workflows, with a focus on backend architecture, system behaviour, reliability, and security.
 
-I build the software around LLM features and agent workflows (APIs, databases, retrieval, orchestration) and I focus on making it **secure, reliable, and resilient**. My work centres on Python, FastAPI, and PostgreSQL, with failure injection, invariant checks, and reproducible evaluation as part of the way I build, not an afterthought.
+My work spans APIs, databases, retrieval pipelines, agent orchestration, testing, and evaluation. I'm particularly interested in understanding how AI systems fail, identifying weaknesses in their workflows, and engineering safeguards that make them more dependable.
 
-I currently work as a Full Stack Agentic AI Engineer at Techloset. Before that, I worked on data-processing automation at NIC Faisalabad, product prototypes at MUSTER, and backend components at 1337 Ventures.
+I explore these challenges through practical projects involving controlled failure injection, invariant checks, structured execution traces, access controls, and reproducible testing.
 
----
+**Currently:** Full Stack Agentic AI Engineer at Techloset.
 
-## What I Focus On
+**My direction:** AI Systems Engineering → AI Security, Evaluation & Reliability.
+
+## What I Work On
 
 | Area | Focus |
 |---|---|
-| **AI Risk & Security** | Failure modes and threat surfaces in LLM and agent systems, guardrails, and building more robust systems |
-| **Reliability & Evaluation** | Automated tests, invariant checks, failure injection, reproducible evaluation |
-| **Backend Engineering** | API design, authentication, access control, integrations, and maintainable services |
-| **Applied AI Systems** | RAG applications, agent workflows, LLM integrations, structured outputs |
-| **Data & Database Engineering** | Data validation, ETL workflows, PostgreSQL, relational modelling, data integrity |
+| AI Security & Risk | Threat surfaces, failure modes, guardrails, safer AI workflows |
+| Reliability & Evaluation | Automated tests, failure injection, invariant checks, reproducible experiments |
+| Agentic AI Systems | Multi-step workflows, tool use, orchestration, structured outputs |
+| Backend Engineering | Python, FastAPI, REST APIs, authentication, integrations |
+| Data & Databases | PostgreSQL, SQLAlchemy, ETL, validation, relational modelling |
+| RAG Systems | Retrieval pipelines, grounding, citations, evaluation |
 
----
+## Featured Projects
 
-## Featured Engineering Projects
+### 1. AgentFault Lab
+**A reproducible fault-injection and recovery-testing lab for AI agent workflows.**
 
-### 01. AgentFault Lab
+[Repository](https://github.com/faraz-369/agentfault-lab-Web) · [Live Demo](https://agentfault-lab-web.vercel.app/)
 
-**A controlled environment for studying failures and recovery in multi-step agent workflows.**
+- Injects controlled failures such as timeouts, exceptions, and malformed responses.
+- Records structured execution events and workflow state.
+- Checks explicit invariants to detect incorrect outcomes.
+- Compares no-recovery, retry, and state-aware recovery policies.
+- Includes a deterministic simulator, experiment runner, and persisted results.
 
-`Python` `FastAPI` `Pydantic` `SQLite` `Docker` `Pytest` `GitHub Actions`
+**Focus:** Agent reliability, failure analysis, recovery behaviour, and reproducible evaluation.
 
-[Repository](https://github.com/faraz-369/agentfault-lab-Web) · [Live Interface](https://agentfault-lab-web.vercel.app/) · [Benchmark Methodology](https://github.com/faraz-369/agentfault-lab-Web/blob/main/docs/benchmark-methodology.md) · [Results](https://github.com/faraz-369/agentfault-lab-Web/tree/main/results)
+*Research prototype: its current benchmark uses simulated tools and does not establish production-wide reliability.*
 
-**What I built**
-
-- A modular Python backend with FastAPI endpoints and a command-line interface.
-- Controlled failure injection for timeouts, exceptions, and malformed responses.
-- Structured execution records and SQLite persistence.
-- Retry and state-aware recovery policies.
-- Explicit workflow invariant checks.
-- Automated unit, API, integration, and regression tests.
-- Docker Compose development environment and GitHub Actions CI configuration.
-
-**Evaluation:** A documented 45-run baseline across three scenarios and three recovery policies using deterministic simulated tools. Methodology and results are linked above.
-
-**Engineering question:** How should a multi-step workflow detect failures, preserve state, and recover without violating its intended execution rules?
-
-*Scope: This is a controlled engineering and research prototype. Its results do not establish production-wide AI-agent reliability.*
-
----
-
-### 02. RAG Agent Failure Catalog
-
-**Reproducible examples of silent failures in RAG systems and AI-agent workflows.**
-
-`Python` `Pytest` `LLM Evaluation` `Reliability`
+### 2. RAG Agent Failure Catalog
+**A collection of reproducible failure cases in RAG and agent workflows.**
 
 [Repository](https://github.com/faraz-369/rag-agent-failure-catalog)
 
-A structured catalogue of failure patterns that can produce plausible but incorrect, incomplete, or unsupported outputs.
+- Minimal examples of common failure modes.
+- Detection methods and possible mitigations.
+- Covers ungrounded answers, citation drift, retrieval misses, tool loops, context pollution, and silent tool failures.
+- Uses deterministic offline examples, with optional live-model testing.
 
-Each failure includes:
+**Focus:** Understanding and testing failure modes in LLM applications.
 
-- A minimal reproduction.
-- A detection approach.
-- A mitigation or guardrail.
-- An explanation of the failure and its limitations.
-- Offline deterministic examples and optional live-model experiments.
-
-The catalogue explores issues such as ungrounded answers, citation drift, retrieval misses, tool-calling loops, premature termination, context pollution, silent tool failures, and numeric or date hallucinations.
-
----
-
-### 03. PortfolioPulse
-
-**A multi-tenant portfolio reporting application demonstrating secure backend application engineering.**
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Docker` `Pytest`
+### 3. PortfolioPulse
+**A multi-tenant reporting application built around data integrity and controlled workflows.**
 
 [Repository](https://github.com/faraz-369/portfoliopulse)
 
-PortfolioPulse models a reporting workflow in which organisations manage companies, reporting periods, structured submissions, reviews, and portfolio analytics.
+- Tenant isolation and role-based access control.
+- JWT authentication and password hashing.
+- Validated CSV ingestion and relational database constraints.
+- Approval-gated analytics and processing logs.
+- Audit records, versioned templates, and reporting periods.
+- Automated tests, migrations, Docker, and CI.
 
-**Security and integrity controls**
+**Verification note:** The project was locally verified with 34 passing tests on 10 November 2026, including five PostgreSQL integration tests. It uses synthetic data and is an independent portfolio project, not a deployed commercial or NIC system.
 
-- Organisation-scoped data models and tenant isolation.
-- JWT authentication and role-based access control.
-- Password hashing with Argon2.
-- Idempotent retry handling and PostgreSQL consistency constraints.
-- Approval-gated analytics, processing logs, and audit records.
-
-**Other engineering implementation**
-
-- Versioned reporting templates and reporting periods.
-- CSV ingestion with actionable validation errors.
-- Submission review, approval, and resubmission history.
-- Database migrations with Alembic.
-- Automated tests, Ruff configuration, Docker Compose, and GitHub Actions.
-
-**Verification:** The repository documents 34 tests passing in a local verification run dated 10 November 2026, including five PostgreSQL integration tests.
-
-The project uses synthetic data and is an independent demonstration application, not a deployed NIC Faisalabad system or a production-proven commercial product.
-
----
-
-### 04. Data Quality & Anomaly Detection Pipeline
-
-**A data-processing prototype for validating datasets and identifying anomalous records.**
-
-`Python` `Pandas` `Scikit-learn` `Gradio`
+### 4. Data Quality & Anomaly Detection Pipeline
+**A pipeline for validating datasets and identifying anomalous records.**
 
 [Repository](https://github.com/faraz-369/data-quality-pipeline) · [Live Demo](https://huggingface.co/spaces/Faraz618/data-quality-pipeline)
 
-A data-processing application that accepts CSV files, evaluates data quality, identifies anomalous records using Isolation Forest and Z-score methods, and generates downloadable reports.
+- CSV ingestion and data validation.
+- Data-quality checks and anomaly detection.
+- Isolation Forest and Z-score methods.
+- Downloadable analysis reports.
+- Interactive Gradio interface.
 
-It explores data validation, missing-value analysis, duplicate detection, anomaly detection, risk classification, and reporting using synthetic transaction data.
-
----
+**Focus:** Practical data quality, anomaly detection, and applied machine learning.
 
 ## Professional Experience
 
 ### Techloset — Full Stack Agentic AI Engineer
-*November 2026 – Present*
-
-Translating client business requirements into AI-powered software solutions.
-
-- Analysing client challenges and turning business needs into technical requirements.
-- Working with engineering teams on LLM-integrated workflows, from solution development through delivery.
+**Nov 2026 – Present**
+- Translate business requirements into AI software workflows.
+- Work across requirements, LLM workflows, backend development, and delivery.
 
 ### MUSTER — Product Engineer
-*January 2026 – October 2026*
-
-Defined and prototyped an AI-powered lead-qualification workflow for real-estate brokers.
-
-- Mapped real-estate workflows (lead qualification, follow-ups, property-viewing coordination) and turned user needs into product functionality.
-- Designed and developed prototypes demonstrating automated lead qualification.
-- Ran product demos with prospective users to validate use cases and gather feedback.
-- Researched and mapped prospects across Qatar, Pakistan, and selected GCC markets, and drafted ideal-customer-profile criteria to prioritise them.
-
-MUSTER was selected into the Qatar Science & Technology Park (QSTP) startup ecosystem.
+**Jan 2026 – Oct 2026**
+- Contributed to an AI-powered real-estate lead qualification prototype.
+- Worked on workflows, demonstrations, and product validation.
+- Selected into the Qatar Science & Technology Park ecosystem.
 
 ### lablab.ai — Applied AI Developer
-*August 2024 – August 2026*
-
-Built and demonstrated AI prototypes under hackathon deadlines, including as part of the winning team at the IBM Granite Generative AI Hackathon.
-
-- Implemented retrieval-augmented generation workflows using document retrieval, embeddings, and semantic search.
-- Integrated LLM capabilities into application prototypes built with Python, FastAPI, and REST APIs.
-- Built multi-step agent workflows with task decomposition, structured outputs, and tool integration.
+**Aug 2024 – Aug 2026**
+- Built AI prototypes and participated in hackathon projects.
+- Worked with RAG, LLM workflows, FastAPI, REST APIs, and multi-step agents.
+- Part of the winning team at the IBM Granite Generative AI Hackathon.
 
 ### Stanford Code in Place — Section Leader
-*2025 and 2026 programmes*
-
-Led weekly live Python sessions for beginner cohorts, guiding learners through exercises, debugging, and problem-solving, and giving feedback on assignments.
+**2025 and 2026 programmes**
+- Supported Python learners through sessions, debugging, and problem-solving.
+- Provided feedback and guidance.
 
 ### 1337 Ventures — Backend Developer
-*June 2025 – September 2025*
+**Jun 2025 – Sep 2025**
+- Contributed Python and FastAPI backend components to an AI automation SaaS MVP.
+- Worked on document ingestion and structured output generation during a six-week sprint.
 
-Contributed backend components to an AI automation SaaS MVP during a six-week accelerator sprint.
-
-- Implemented backend functionality in Python and FastAPI for the MVP's AI automation features.
-- Contributed to application workflows for document ingestion and structured-output generation.
-- Worked with the startup team through product development and iteration.
-
-### NIC Faisalabad — AI / Data Engineer
-*January 2024 – August 2024*
-
-Automated KPI reporting for a portfolio of 30+ startups.
-
-- Built ETL workflows in Python, Pandas, SQLAlchemy, and PostgreSQL to process portfolio performance data.
-- Automated recurring cohort, retention, and funding reports.
-- Added data-quality checks to keep reporting outputs consistent and reliable.
-- Used Jupyter and Papermill to make reports reproducible.
-
-**Reported impact:** Associated with about 60% less manual analyst time and about 12 hours a week of repetitive spreadsheet work. These figures are self-reported estimates, not independently audited measurements.
-
----
+### NIC Faisalabad — AI/Data Engineer
+**Jan 2024 – Aug 2024**
+- Built Python ETL and reporting workflows for 30+ startups.
+- Worked with Pandas, SQLAlchemy, PostgreSQL, and Jupyter.
+- Produced cohort, retention, and funding reports.
+- Reported approximately 60% less manual analyst time; this impact was self-reported, not independently audited.
 
 ## Recognition
 
-| Programme / Competition | Achievement |
-|---|---|
-| **IBM Granite Generative AI Hackathon** | Winning team — PolyEns |
-| **CS50 Puzzle Day** | Team Cipher Cracker solved all 9 puzzles and was listed among the winning teams |
-| **Stanford Code in Place** | Selected as Section Leader in 2025 and 2026 |
-| **BICON Accelerator, NUML** | BillBachao selected and continued into incubation |
-| **AlgoVerse Research Program — EOE.ai × Omdena** | Accepted participant; 45% merit scholarship |
+- **IBM Granite Generative AI Hackathon:** Winning team — PolyEns.
+- **CS50 Puzzle Day:** Team Cipher Cracker; solved all nine puzzles and appeared among listed winning teams.
+- **Stanford Code in Place:** Selected Section Leader for 2025 and 2026 programmes.
+- **BICON Accelerator, NUML:** BillBachao selected and continued incubation.
+- **AlgoVerse Research Program — EOE.ai × Omdena:** Accepted participant with a 45% merit scholarship.
 
-**Evidence**
+## Other Projects
 
-- [IBM Granite Hackathon — PolyEns team and submission](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
-- [CS50 Puzzle Day — Team Cipher Cracker result](https://lnkd.in/p/dniXjMSN)
-- [Code in Place 2026 — Section Leader selection](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7450596499068960769/)
-- [BillBachao — BICON Accelerator selection and incubation](https://lnkd.in/p/dHW92p6b)
-- [Additional professional recognitions](https://www.linkedin.com/in/faraz369)
-
-*Team achievements are identified as team results; individual selections are described separately.*
-
----
-
-## Additional Projects & Technical Exploration
-
-| Project | Focus |
-|---|---|
-| [ComplianceRAG](https://github.com/faraz-369/ComplianceRAG) | Document ingestion, vector retrieval, and source-grounded question answering |
-| [HireMind-AI](https://github.com/faraz-369/HireMind-AI) | Job-description analysis, resume feedback, and interview-preparation prototype |
-| [SafeLite](https://github.com/faraz-369/SafeLite) | Language-conditioned robotic manipulation research in simulation |
-| [AdvancedLeadsGeneration-AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) | Multi-agent lead evaluation; IBM Granite Hackathon winning team project |
-
----
+- [ComplianceRAG](https://github.com/faraz-369/ComplianceRAG)
+- [HireMind-AI](https://github.com/faraz-369/HireMind-AI)
+- [SafeLite](https://github.com/faraz-369/SafeLite)
+- [AdvancedLeadsGeneration-AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI)
 
 ## Technical Toolkit
 
-**Languages**
+**Languages:** Python, SQL, JavaScript
 
-![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=5EEAD4)
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=5EEAD4)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=FACC15)
+**Backend:** FastAPI, REST APIs, Pydantic, SQLAlchemy
 
-**Backend & API Development**
+**Databases:** PostgreSQL, SQLite
 
-![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=5EEAD4)
-![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-334155?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-334155?style=flat-square&logo=sqlalchemy&logoColor=5EEAD4)
+**AI & ML:** LLM integrations, RAG, FAISS, Hugging Face, Sentence Transformers, Groq API
 
-**Databases & Data Engineering**
+**Testing & Quality:** Pytest, HTTPX, Ruff, automated evaluation
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=5EEAD4)
-![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=5EEAD4)
-![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=5EEAD4)
-![FAISS](https://img.shields.io/badge/FAISS-334155?style=flat-square)
+**Infrastructure:** Git, GitHub Actions, Docker, Docker Compose
 
-**Applied AI**
+**Additional exposure:** LangChain, Next.js, Streamlit, Gradio
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-334155?style=flat-square&logo=huggingface&logoColor=5EEAD4)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-334155?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_API-334155?style=flat-square)
+## Currently Deepening
 
-**Testing & Code Quality**
-
-![Pytest](https://img.shields.io/badge/Pytest-334155?style=flat-square&logo=pytest&logoColor=5EEAD4)
-![HTTPX](https://img.shields.io/badge/HTTPX-334155?style=flat-square)
-![Ruff](https://img.shields.io/badge/Ruff-334155?style=flat-square)
-
-**Development & Delivery**
-
-![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=5EEAD4)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-334155?style=flat-square&logo=githubactions&logoColor=5EEAD4)
-![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=5EEAD4)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-334155?style=flat-square&logo=docker&logoColor=5EEAD4)
-
-**Additional Technical Exposure**
-
-- LangChain
-- Next.js
-- Streamlit
-- Gradio
-
----
+- LLM and agent failure modes
+- AI security and threat surfaces
+- Guardrails and safer tool execution
+- Reproducible testing and evaluation
+- Authentication and access control
+- PostgreSQL and data integrity
+- Observability and distributed systems
 
 ## Education
 
 **BS Software Engineering**  
-National University of Modern Languages (NUML)  
-2022–2026
-
----
-
-## Currently Deepening
-
-- Failure modes, guardrails, and threat surfaces in LLM and agent systems.
-- Evaluating LLM and agent workflows with measurable, reproducible tests.
-- Authentication, authorisation, and application security.
-- PostgreSQL transactions, indexing, and database design.
-- Logging, monitoring, and observability.
-- Asynchronous processing and background jobs.
-- Distributed-systems fundamentals and service communication.
-
----
+National University of Modern Languages (NUML) · 2022–2026
 
 ## Connect
 
-I am looking for backend and AI-systems engineering roles, especially with teams that care about building secure, reliable, and resilient AI systems.
+- Email: faraz.outreach8@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/faraz369)
+- [Portfolio](https://faraz369.vercel.app/)
+- [GitHub](https://github.com/faraz-369)
+- [Hugging Face](https://huggingface.co/Faraz618)
+- [lablab.ai](https://lablab.ai/u/@Faraz_Mubeen)
 
-<div align="center">
+---
 
-  <a href="mailto:faraz.outreach8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faraz369">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://faraz369.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/faraz-369">
-    <img src="https://img.shields.io/badge/GitHub-faraz--369-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/Faraz618">
-    <img src="https://img.shields.io/badge/Hugging_Face-Faraz618-334155?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  </a>
-  <a href="https://lablab.ai/u/@Faraz_Mubeen">
-    <img src="https://img.shields.io/badge/LabLab-Faraz_Mubeen-334155?style=flat-square" alt="LabLab"/>
-  </a>
-
-  <br/><br/>
-
-  *I engineer intelligent systems that are secure, reliable & resilient.*
-
-</div>
+*Building AI systems whose behaviour can be tested, understood, and trusted.*

@@ -1,15 +1,11 @@
 <div align="center">
 
-  <!-- PROFILE BANNER (hosted in this repo: assets/banner.png) -->
-  <img
-  src="https://raw.githubusercontent.com/faraz-369/faraz-369/main/assets/banner.png"
-  width="100%"
-  alt="Faraz Mubeen Haider — Backend Engineer, AI Systems, AI Risk & Security"
-/>
+  <!-- HEADER (no image upload needed - works everywhere on GitHub) -->
+  <h1>Faraz Mubeen Haider</h1>
 
-  <br/>
-
-  **Backend Engineer** &nbsp;·&nbsp; **AI Systems** &nbsp;·&nbsp; **AI Risk & Security**
+  <img src="https://img.shields.io/badge/BACKEND_ENGINEER-0F172A?style=for-the-badge" alt="Backend Engineer"/>
+  <img src="https://img.shields.io/badge/AI_SYSTEMS-0F766E?style=for-the-badge" alt="AI Systems"/>
+  <img src="https://img.shields.io/badge/AI_RISK_%26_SECURITY-115E59?style=for-the-badge" alt="AI Risk and Security"/>
 
   <br/>
 

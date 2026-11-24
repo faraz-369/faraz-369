@@ -1,16 +1,31 @@
 <div align="center">
 
-# Faraz Mubeen Haider
+<img src="banner.svg" alt="Faraz Mubeen Haider, Applied AI Engineer. I build the Python backends behind AI features, and I test how those features fail. Python, FastAPI, PostgreSQL, LLM evaluation and reliability." width="100%" />
 
-### Applied AI Engineer
+<p>
+  <a href="https://faraz369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/faraz369"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:faraz.outreach8@gmail.com"><img src="https://img.shields.io/badge/Email-2f855a?style=for-the-badge" alt="Email" /></a>
+  <a href="https://huggingface.co/Faraz618"><img src="https://img.shields.io/badge/Hugging%20Face-b7791f?style=for-the-badge" alt="Hugging Face" /></a>
+  <a href="https://agentfault-lab-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-AgentFault%20Lab-5a4fcf?style=for-the-badge" alt="Live demo: AgentFault Lab" /></a>
+</p>
 
-**I build the Python backends behind AI features, and I test how those features fail.**
-
-Python · FastAPI · PostgreSQL · LLM evaluation and reliability
-
-[Portfolio](https://faraz369.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faraz369) · [Email](mailto:faraz.outreach8@gmail.com) · [Hugging Face](https://huggingface.co/Faraz618)
+<p>
+  <a href="https://user-badge.committers.top/pakistan/faraz-369"><img src="https://user-badge.committers.top/pakistan/faraz-369.svg" alt="GitHub contributor rank in Pakistan (committers.top, live)" /></a>
+  <a href="https://rankistan.dev/#faraz-369"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaraz-369&style=flat" alt="Rankistan rank (live)" /></a>
+</p>
 
 </div>
+
+## Proof at a glance
+
+| Claim | Where to check it |
+|---|---|
+| I test how AI agents fail and recover | [AgentFault Lab](https://github.com/faraz-369/agentfault-lab-Web): fault injection, invariant checks, a documented 45-run baseline, [live demo](https://agentfault-lab-web.vercel.app/) |
+| I build tested backends | [PortfolioPulse](https://github.com/faraz-369/portfoliopulse): 34 tests, including PostgreSQL integration tests, versioned migrations |
+| I ship working demos | [Data quality pipeline on Hugging Face](https://huggingface.co/spaces/Faraz618/data-quality-pipeline) |
+| I commit consistently | Among the most active GitHub contributors in Pakistan: live rank on [committers.top](https://user-badge.committers.top/pakistan/faraz-369) and [Rankistan](https://rankistan.dev/#faraz-369) |
+| I can teach and explain | Section Leader, Stanford Code in Place |
 
 ---
 

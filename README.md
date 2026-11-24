@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="banner.svg" alt="Faraz Mubeen Haider, Applied AI Engineer. I build the Python backends behind AI features, and I test how those features fail. Python, FastAPI, PostgreSQL, LLM evaluation and reliability." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1622,100:12283d&height=210&section=header&text=Faraz%20Mubeen%20Haider&fontSize=52&fontColor=f2f6fa&fontAlignY=40&desc=Applied%20AI%20Engineer&descSize=24&descAlignY=66" alt="Faraz Mubeen Haider, Applied AI Engineer" width="100%" />
+
+**I build the Python backends behind AI features, and I test how those features fail.**
+
+`Python` &nbsp; `FastAPI` &nbsp; `PostgreSQL` &nbsp; `LLM evaluation` &nbsp; `Agent reliability`
 
 <p>
   <a href="https://faraz369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio" /></a>
@@ -24,7 +28,7 @@
 | I test how AI agents fail and recover | [AgentFault Lab](https://github.com/faraz-369/agentfault-lab-Web): fault injection, invariant checks, a documented 45-run baseline, [live demo](https://agentfault-lab-web.vercel.app/) |
 | I build tested backends | [PortfolioPulse](https://github.com/faraz-369/portfoliopulse): 34 tests, including PostgreSQL integration tests, versioned migrations |
 | I ship working demos | [Data quality pipeline on Hugging Face](https://huggingface.co/spaces/Faraz618/data-quality-pipeline) |
-| I commit consistently | Among the most active GitHub contributors in Pakistan: live rank on [committers.top](https://user-badge.committers.top/pakistan/faraz-369) and [Rankistan](https://rankistan.dev/#faraz-369) |
+| I commit consistently | Ranked #22 among GitHub contributors in Pakistan on [committers.top](https://user-badge.committers.top/pakistan/faraz-369) (November 2026), and listed on [Rankistan](https://rankistan.dev/#faraz-369) |
 | I can teach and explain | Section Leader, Stanford Code in Place |
 
 ---
@@ -94,7 +98,7 @@ A multi-tenant reporting backend focused on data integrity.
 | [RAG Agent Failure Catalog](https://github.com/faraz-369/rag-agent-failure-catalog) | Reproducible failure modes in RAG and agent workflows (ungrounded answers, retrieval misses, tool loops, premature termination), with detection and mitigation examples | Python, Pytest |
 | [ComplianceRAG](https://github.com/faraz-369/ComplianceRAG) | Multi-agent RAG application in which a critic agent checks answers for citation support and groundedness | Python, FAISS, Sentence Transformers, Gradio |
 | [Data Quality & Anomaly Detection](https://github.com/faraz-369/data-quality-pipeline) | CSV validation and anomaly detection (Isolation Forest, z-score) with downloadable reports. [Live demo](https://huggingface.co/spaces/Faraz618/data-quality-pipeline) | Python, Pandas, scikit-learn, Gradio |
-| [Advanced Leads Generation AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) | Multi-agent lead assessment with historical deal context. Team project for the IBM Granite Generative AI Hackathon | Python |
+| [Advanced Leads Generation AI](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) | Multi-agent lead assessment with historical deal context. IBM Granite Generative AI Hackathon winning team project | Python |
 
 ## Technical toolkit
 
@@ -122,7 +126,18 @@ Details are on [LinkedIn](https://www.linkedin.com/in/faraz369) and in my [CV](h
 
 **Education:** BS Software Engineering, National University of Modern Languages (NUML), Faisalabad, 2026.
 
-**Hackathons:** AI prototypes built in 13+ international online hackathons on lablab.ai, 2024–2026.
+## Recognition and proof
+
+| What | Detail | Verify |
+|---|---|---|
+| Top GitHub contributor in Pakistan | Ranked #22 on committers.top, November 2026 | [Live rank](https://user-badge.committers.top/pakistan/faraz-369) |
+| Rankistan developer ranking | Listed among ranked Pakistani developers | [Live rank](https://rankistan.dev/#faraz-369) |
+| IBM Granite Generative AI Hackathon | Winning team (PolyEns), project: Advanced Leads Generation AI | [Project page](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai) · [Code](https://github.com/faraz-369/AdvancedLeadsGeneration-AI) |
+| Stanford Code in Place | Section Leader (volunteer), 2026: taught Python to beginners | Certificate on request |
+| AlgoVerse Research Program | Accepted participant, 45% merit scholarship | Certificate on request |
+| CS50 Puzzle Day | Team Cipher Cracker, 9 puzzles solved | Certificate on request |
+| BICON incubation, NUML | BillBachao selected for incubation | Certificate on request |
+| Hackathons | AI prototypes built in 13+ international online hackathons on lablab.ai, 2024–2026 | [lablab.ai profile](https://lablab.ai/u/@Faraz_Mubeen) |
 
 ---
 
